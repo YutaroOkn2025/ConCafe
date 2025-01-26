@@ -7,7 +7,7 @@ Below is an explanation of the files uploaded here.
 &nbsp;&nbsp;This is a table of correspondences between a CC term and its description. <p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "ccTerm" column is the ID used to uniquely identify the concept of a ConCafe.<p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "Description" column contains the description of the concept of the ConCafe written in Japanese.<p>
-<p>
+<br>
 ・cafeNameCCtermsRepSt.txt<p>
 &nbsp;&nbsp;This is a table of correspondences between a ConCafe (Anonymized ID description) and its annotated CC terms. <p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "CCafeName" column is a ConCafe (Anonymized ID description). <p>
