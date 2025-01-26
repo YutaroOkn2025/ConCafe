@@ -1,7 +1,7 @@
 # ConCafe
 This site collects data on concept cafes (ConCafes) in Tokyo, Japan, for the year 2024 from a website called Moesta+, and classifies the concepts of these cafes in a quantitative manner. The results are expected to be classified from the perspectives of comprehensiveness and trends. This classification provides answers to questions such as "What kind of concepts exist in ConCafes?" and "What are the trends in concepts of ConCafes?", offering insights for those who have recently become interested in ConCafes. It also provides hints for those looking to open a ConCafe in the future.
 <br>
-Below is an explanation of the files uploaded here.
+Below is an explanation of the files uploaded here.<p>
 <br>
 ・conceptCafeOntologySortedLas.txt<p>
 &nbsp;&nbsp;&nbsp;This is a table of correspondences between a CC term and its description. <p>
