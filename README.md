@@ -6,12 +6,12 @@ Below is an explanation of the files uploaded here.
 ・conceptCafeOntologySortedLas.txt<p>
 &nbsp;&nbsp;This is a table of correspondences between a CC term and its description. <p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "ccTerm" column is the ID used to uniquely identify the concept of a ConCafe.<p>
-&nbsp;&nbsp;&nbsp;&nbsp;- The "Description" column contains the description of the concept of the ConCafe written in Japanese.<p>
+&nbsp;&nbsp;&nbsp;&nbsp;- The "Description" column contains the description of the concept of the ConCafe written in Japanese.<p><p>
 
 ・cafeNameCCtermsRepSt.txt<p>
 &nbsp;&nbsp;This is a table of correspondences between a ConCafe (Anonymized ID description) and its annotated CC terms. <p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "CCafeName" column is a ConCafe (Anonymized ID description). <p>
-&nbsp;&nbsp;&nbsp;&nbsp;- The "ccTerms" column is a CC term. <p>
+&nbsp;&nbsp;&nbsp;&nbsp;- The "ccTerms" column is a CC term. <p><p>
 
 ・ConCafeAllData.txt<p>
 &nbsp;&nbsp;This is a table of a ConCafe with its attributes. <p>
@@ -24,7 +24,7 @@ Below is an explanation of the files uploaded here.
 &nbsp;&nbsp;&nbsp;&nbsp;- The "sMonth" column is the opening month of a ConCafe.<p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "eYear" column is the closed year of a ConCafe.<p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "eMonth" column is the closed month of a ConCafe.<p>
-&nbsp;&nbsp;&nbsp;&nbsp;- The "nofXfollower" column is the number of a ConCafe's X followers（As of November 2024).<p>
+&nbsp;&nbsp;&nbsp;&nbsp;- The "nofXfollower" column is the number of a ConCafe's X followers（As of November 2024).<p><p>
 
 
 
