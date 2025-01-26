@@ -13,4 +13,18 @@ Below is an explanation of the files uploaded here.
 &nbsp;&nbsp;&nbsp;&nbsp;- The "CCafeName" column is a ConCafe (Anonymized ID description). <p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "ccTerms" column is a CC term. <p>
 
+・ConCafeAllData.txt<p>
+&nbsp;&nbsp;This is a table of a ConCafe with its attributes. 
+&nbsp;&nbsp;&nbsp;&nbsp;- The "cafeId" column is an ID that uniquely represents an anonymized ConCafe.
+&nbsp;&nbsp;&nbsp;&nbsp;- The "openDate" column is the opening month and year of a ConCafe.
+&nbsp;&nbsp;&nbsp;&nbsp;- The "oneHourFee" column is the price of all-you-can-drink, calculated on an hourly basis.
+&nbsp;&nbsp;&nbsp;&nbsp;- The "closedDate" column is the closing date of a ConCafe. ConCafes that continued until July 2024 are marked with "c".
+&nbsp;&nbsp;&nbsp;&nbsp;- The "Age" column is the age of a ConCafe. It is calculated by subtracting the opening date from the closing date. If the cafe has not closed, the year is considered to be November 2024.
+&nbsp;&nbsp;&nbsp;&nbsp;- The "sYear" column is the opening year of a ConCafe.
+&nbsp;&nbsp;&nbsp;&nbsp;- The "sMonth" column is the opening month of a ConCafe.
+&nbsp;&nbsp;&nbsp;&nbsp;- The "eYear" column is the closed year of a ConCafe.
+&nbsp;&nbsp;&nbsp;&nbsp;- The "eMonth" column is the closed month of a ConCafe.
+&nbsp;&nbsp;&nbsp;&nbsp;- The "nofXfollower" column is the number of a ConCafe's X followers（As of November 2024).
+
+
 
