@@ -4,7 +4,6 @@ This site collects data on concept cafes (ConCafes) in Tokyo, Japan, for the yea
 Below is an explanation of the files uploaded here.
 
 ・conceptCafeOntologySortedLas.txt<p>
-&nbsp;This is a table of correspondences between CC terms and their descriptions. <p>
-
-The "ccTerm" column is the ID used to uniquely identify the concept of a ConCafe.<p>
-The "Description" column contains the description of the concept of the ConCafe written in Japanese.<p>
+&nbsp;&nbsp;This is a table of correspondences between CC terms and their descriptions. <p>
+&nbsp;&nbsp;&nbsp;&nbsp;The "ccTerm" column is the ID used to uniquely identify the concept of a ConCafe.<p>
+&nbsp;&nbsp;&nbsp;&nbsp;The "Description" column contains the description of the concept of the ConCafe written in Japanese.<p>
