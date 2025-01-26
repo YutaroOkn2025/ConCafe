@@ -26,5 +26,6 @@ Below is an explanation of the files uploaded here.
 &nbsp;&nbsp;&nbsp;&nbsp;- The "eMonth" column is the closed month of a ConCafe.<p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "nofXfollower" column is the number of a ConCafe's X followers（As of November 2024).<p><p>
 <br>
-
-
+・heatDgrp.txt<p>
+&nbsp;This is a heatmap of ConCafes based on the adoption or non-adoption of a concept (1 or 0). In the last column, the number corresponding to the general concept group to which each concept cafe belongs is assigned.
+<br>
