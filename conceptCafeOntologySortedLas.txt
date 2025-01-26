@@ -1,4 +1,4 @@
-CCID	ccTerm
+ccTerm	Description
 CC0100000	職業
 CC0110000	DJ
 CC0120000	OL
