@@ -10,7 +10,7 @@ Below is an explanation of the files uploaded here.
 
 ・cafeNameCCtermsRepSt.txt<p>
 &nbsp;&nbsp;This is a table of correspondences between a ConCafe (Anonymized ID description) and its annotated CC terms. <p>
-&nbsp;&nbsp;&nbsp;&nbsp;- The "CCafeName" column is a ConCafe (Anonymized ID description) <p>
-&nbsp;&nbsp;&nbsp;&nbsp;- The "ccTerms" column is a CC term <p>
+&nbsp;&nbsp;&nbsp;&nbsp;- The "CCafeName" column is a ConCafe (Anonymized ID description). <p>
+&nbsp;&nbsp;&nbsp;&nbsp;- The "ccTerms" column is a CC term. <p>
 
 
