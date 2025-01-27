@@ -24,6 +24,7 @@ Below is an explanation of the files uploaded here.<p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "sMonth" column is the opening month of a ConCafe.<p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "eYear" column is the closed year of a ConCafe.<p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "eMonth" column is the closed month of a ConCafe.<p>
+&nbsp;&nbsp;&nbsp;&nbsp;- The "lateNightService" column means whether or not a ConCafe adopts late night service represented by 1 or 0.<p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "nofXfollower" column is the number of a ConCafe's X followers（As of November 2024).<p><p>
 <br>
 ・heatDgrp.txt<p>
