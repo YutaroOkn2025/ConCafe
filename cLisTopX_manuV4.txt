@@ -1,4 +1,4 @@
-ccName	Nofcc	Upper	Decided
+Description	Nofcc	Upper	Decided
 メイド	136	upper職業	2
 アイドル	46	upper職業	2
 かわいい	33	upper外観	2
