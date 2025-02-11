@@ -9,6 +9,11 @@ Below is an explanation of the files uploaded here.<p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "Nofcc" column means the number of ConCafes adopting the description of the CC term.<p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "Upper" column means that the concept (description) is extended by adding "upper" and the other technical terms to indicate the hierarchical relationship up to the parent term.<p>
 <br>
+・createCContology.py, sortCContology.py, finalSortCcOntology.py <p>
+&nbsp;&nbsp;&nbsp;In createCContology.py, the input is cLisTopX_manuV4.txt, and it is used for automatically generating CC terms and mapping them to their descriptions.<p>
+&nbsp;&nbsp;&nbsp;In sortedCContology.py, after sorting the descriptions in the Japanese 50-sound order, the CC terms are also aligned with these results.<p>
+&nbsp;&nbsp;&nbsp;In finalSortCcOntology, other minor adjustments are done.<p>
+<br>
 ・conceptCafeOntologySortedLas.txt<p>
 &nbsp;&nbsp;&nbsp;This is a table of correspondences between a CC term and its description. <p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "ccTerm" column is the ID used to uniquely identify the concept of a ConCafe.<p>
