@@ -3,6 +3,12 @@ This site collects data on concept cafes (ConCafes) in Tokyo, Japan, for the yea
 <br>
 Below is an explanation of the files uploaded here.<p>
 <br>
+・cLisTopX_manuV4.txt<p>
+&nbsp;&nbsp;&nbsp;This is a table of The source information for creating the CC Ontology. It associates each CC term with all its parent CC terms up to the corresponding Top CC term. 
+&nbsp;&nbsp;&nbsp;&nbsp;- The "Description" column contains the description of the concept of the ConCafe written in Japanese.<p>
+&nbsp;&nbsp;&nbsp;&nbsp;- The "Nofcc" column means the number of ConCafes adopting the description of the CC term.<p>
+&nbsp;&nbsp;&nbsp;&nbsp;- The "Upper" column means that the concept (description) is extended by adding "upper" and the other technical terms to indicate the hierarchical relationship up to the parent term.<p>
+<br>
 ・conceptCafeOntologySortedLas.txt<p>
 &nbsp;&nbsp;&nbsp;This is a table of correspondences between a CC term and its description. <p>
 &nbsp;&nbsp;&nbsp;&nbsp;- The "ccTerm" column is the ID used to uniquely identify the concept of a ConCafe.<p>
