@@ -34,7 +34,7 @@ CC01f5000	ゴシックメイド	Gothic Maid
 CC01f6000	チャイナメイド	Chinese-Style Maid	
 CC01f7000	バニーメイド	Bunny Maid	
 CC01f8000	メイド服	Maid Outfit	
-CC01f9000	吸血鬼メイド	Vampire Maid	
+CC01f9000	吸血鬼メイド	Bloodsucker Maid	
 CC01fa000	和風メイド	Japanese-Style Maid	
 CC01fb000	殺し屋メイド	Assassin Maid	
 CC01fc000	猫型ロボットメイド	Cat-Type Robot Maid	
