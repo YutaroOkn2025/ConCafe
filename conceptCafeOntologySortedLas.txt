@@ -586,7 +586,7 @@ CC2413000	ウエスタン	Western
 CC2420000	チャイナ	China	
 CC2421000	キョンシー	Jiangshi	
 CC2422000	チャイナドレス	Chinese Dress	
-CC2423000	チャイナメイド	Chinese Maid	
+CC2423000	チャイナメイド	Chinese-Style Maid	
 CC2424000	チャイナロリータ	China Lolita (country)	
 CC2430000	フランス	France	
 CC2431000	着せ替えフランス人形	French Fashion Doll (country)	
