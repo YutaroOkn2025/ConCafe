@@ -539,7 +539,7 @@ CC2010000	和洋折衷	Wayo-Sekicho	"Wayo-sekicho means a blend of traditional J
 CC2020000	和装	Japanese Clothing	
 CC2030000	和装女子	Japanese Clothing Woman	
 CC2040000	和風	Japanese Style	
-CC2041000	和風メイド	Japanese Style Maid	
+CC2041000	和風メイド	Japanese-Style Maid	
 CC2050000	巫女	Shrine Maiden (japanese)	See CC01m0000.
 CC2060000	忍者	Ninja (japanese)	See CC01o0000.
 CC2070000	昭和	Showa	See CC0862000 for more information about Showa.
