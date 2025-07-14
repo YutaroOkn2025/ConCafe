@@ -250,8 +250,8 @@ CC05k0000	夜行性	Nocturnal
 CC05l0000	映え	Bae	"Bae means the aesthetic or visual appeal, especially when something looks good in photos or on social media."
 CC05m0000	最強	Strongest	
 CC05m1000	上野最強	Strongest in Ueno	"Ueno is a district in Tokyo known for its cultural landmarks, including Ueno Park, museums, and Ueno Zoo."
-CC05n0000	正統派	Conventional	
-CC05n1000	正統派アイドル	Conventional idol	
+CC05n0000	正統派	Orthodox	
+CC05n1000	正統派アイドル	Orthodox idol	
 CC05o0000	王道	Mainstream	
 CC05p0000	甘い	Sweet	
 CC05p1000	甘い夢	Sweet dream	
