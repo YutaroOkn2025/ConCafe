@@ -594,7 +594,7 @@ CC2440000	南国	Tropical (country)
 CC2450000	琉球	Ryukyu	See CC01fe000 for more information about Ryukyu.
 CC2451000	琉球メイド	Ryukyuan Maid (country)	See CC01fe000.
 CC2460000	韓国	Korea	
-CC2461000	韓国アイドル	Korean Idol	
+CC2461000	韓国アイドル	K-Pop Idol	
 CC2500000	その他所	Other Places	
 CC2510000	世界	World	
 CC2520000	交差点	Intersection	
