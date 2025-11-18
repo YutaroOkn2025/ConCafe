@@ -1,0 +1,81 @@
+CCterm	descEng	descJpn	olderCCterm
+CC0100000	Occupation	職業	CC0100000
+CC0110000	Music and Performance	音楽・パフォーマンス系	Nothing
+CC0111000	DJ	DJ	CC0110000
+CC0112000	Idol	アイドル	CC0130000
+CC0112100	Idol Otaku	アイドルオタク	CC0131000
+CC0112200	Idol School	アイドル学校	CC0132000
+CC0112300	Idol Development	アイドル育成	CC0133000
+CC0112400	Gravure Idol	グラビアアイドル	CC0134000
+CC0112500	Virtual Idol	バーチャルアイドル	CC0135000
+CC0112600	Orthodox Idol	正統派アイドル	CC0136000
+CC0112700	K-Pop Idol	韓国アイドル	CC0137000
+CC0112800	Drinkable Idol	飲めるアイドル	CC0138000
+CC0113000	Live Streamer	ライバー	CC01h0000
+CC0114000	Voice Actor	声優	CC01j0000
+CC0120000	Model and Talent	モデル・タレント系	Nothing
+CC0121000	Talent	タレント	CC01a0000
+CC0122000	Model	モデル	CC01g0000
+CC0122100	Photo Shoot Model	撮影モデル	CC01g1000
+CC0123000	Influencer	インフルエンサ―	CC0140000
+CC0130000	Food and Service	飲食・接客系	Nothing
+CC0131000	Waitress	ウェイトレス	CC0150000
+CC0131100	American-Style Waitress	アメリカンウェイトレス	CC0151000
+CC0132000	Maid	メイド	CC01f0000
+CC0132100	Kawaii Maid	かわいいメイド	CC01f1000
+CC0132200	Animal-Eared Maid	けもみみメイド	CC01f2000
+CC0132300	Hikikomori Tracksuit Maid	ひきこもりジャージメイド	CC01f3000
+CC0132400	Animal Maid	アニマルメイド	CC01f4000
+CC0132500	Gothic Maid	ゴシックメイド	CC01f5000
+CC0132600	Chinese-Style Maid	チャイナメイド	CC01f6000
+CC0132700	Bunny Maid	バニーメイド	CC01f7000
+CC0132800	Maid Outfit	メイド服	CC01f8000
+CC0132900	Bloodsucker Maid	吸血鬼メイド	CC01f9000
+CC0132a00	Japanese-Style Maid	和風メイド	CC01fa000
+CC0132b00	Assassin Maid (Maid)	殺し屋メイド	CC01fb000
+CC0132c00	Cat-Type Robot Maid	猫型ロボットメイド	CC01fc000
+CC0132d00	Cat-Eared Maid	猫耳メイド	CC01fd000
+CC0132e00	Ryukyuan Maid	琉球メイド	CC01fe000
+CC0132f00	Magical Maid	魔法メイド	CC01ff000
+CC0132g00	Magical Maid Institute	魔法メイド学院	CC01fg000
+CC0134000	Other Service	その他接客職	Nothing
+CC0134100	Store Manager	店長	CC01n0000
+CC0134110	One-Day Store Manager	1日店長	CC01n1000
+CC0140000	Education and Student	教育・学生系	Nothing
+CC0141000	Student	学生	CC01l0000
+CC0141100	Schoolgirl	女子学生	CC01l1000
+CC0141110	Female College Student	女子大生	CC01l1100
+CC0141200	Cheerleader	チアガール	CC01b0000
+CC0150000	Medical and Nursing	医療・看護系	Nothing
+CC0151000	Nurse	ナース	CC01c0000
+CC0151100	Angel Nurse	エンジェルナース	CC01c1000
+CC0160000	Military and Police and Combat	軍事・警察・戦闘系	Nothing
+CC0161000	Military	ミリタリー	CC01e0000
+CC0161100	Military Force	軍隊	CC01w0000
+CC0162000	Police Officer	警察	CC01v0000
+CC0162100	Anipoli	あにぽり	CC01v1000
+CC0163000	Warrior	戦士	CC01p0000
+CC0163100	Legendary Warrior	伝説戦士	CC01p1000
+CC0163200	Magical Warrior	魔法戦士	CC01p2000
+CC0164000	Assassin	殺し屋	CC01r0000
+CC0164100	Assassin Maid (Assassin)	殺し屋メイド	CC01r1000
+CC0165000	Prison Guard	看守	CC01t0000
+CC0170000	Special and Fictional	特殊職・フィクション系	Nothing
+CC0171000	Cosplayer	コスプレ	CC0170000
+CC0172000	Spy	スパイ	CC0190000
+CC0172100	Underworld Informant	裏社会情報員	CC0191000
+CC0173000	Ninja	忍者	CC01o0000
+CC0174000	Adventurer	冒険者	CC01i0000
+CC0175000	Detective	探偵	CC01q0000
+CC0176000	Pirate	海賊	CC01s0000
+CC0177000	Actress	女優	CC01k0000
+CC0177100	Adult Video Actress	AV女優	CC01k1000
+CC0178000	Bunny Girl	バニーガール	CC01d0000
+CC0179000	Religious Roles	宗教職系	Nothing
+CC0179100	Sister	シスター	CC0180000
+CC0179200	Shrine Maiden	巫女	CC01m0000
+CC017a000	Creater	クリエーター	CC0160000
+CC0180000	Secretary and Administration	秘書・事務系	Nothing
+CC0181000	Secretary	秘書	CC01u0000
+CC0181100	CEO’s Secretary	社長秘書	CC01u1000
+CC0182000	OL	OL	CC0120000

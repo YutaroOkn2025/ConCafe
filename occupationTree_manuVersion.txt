@@ -1,0 +1,71 @@
+CCterm	descJpn	descEng	additional_Information
+CC0100000	職業	Occupation	
+CC0110000	DJ	DJ	
+CC0120000	OL	OL	
+CC0130000	アイドル	Idol	
+CC0131000	アイドルオタク	Idol Otaku	"Otaku is a Japanese term for individuals with obsessive interests, especially in anime and manga culture."
+CC0132000	アイドル学校	Idol School	
+CC0133000	アイドル育成	Idol Development	
+CC0134000	グラビアアイドル	Gravure Idol	"A female model who primarily appears in magazines, photobooks, and DVDs, often in swimsuits or other suggestive clothing, but not nude."
+CC0135000	バーチャルアイドル	Virtual Idol	
+CC0136000	正統派アイドル	Orthodox Idol	
+CC0137000	韓国アイドル	K-Pop Idol	
+CC0138000	飲めるアイドル	Drinkable Idol	
+CC0140000	インフルエンサ―	Influencer	
+CC0150000	ウェイトレス	Waitress	
+CC0151000	アメリカンウェイトレス	American-Style Waitress	
+CC0160000	クリエーター	Creator	
+CC0170000	コスプレ	Cosplayer	
+CC0180000	シスター	Nun	
+CC0190000	スパイ	Spy	
+CC0191000	裏社会情報員	Underworld Informant	
+CC01a0000	タレント	Talent	
+CC01b0000	チアガール	Cheerleader	
+CC01c0000	ナース	Nurse	
+CC01c1000	エンジェルナース	Angel Nurse	
+CC01d0000	バニーガール	Bunny Girl	
+CC01e0000	ミリタリー	Military	
+CC01f0000	メイド	Maid	
+CC01f1000	かわいいメイド	Kawaii Maid	"Kawaii means Japanese concept of cuteness, combining innocence, sweetness, and playful charm."
+CC01f2000	けもみみメイド	Animal-Eared Maid	
+CC01f3000	ひきこもりジャージメイド	Hikikomori Tracksuit Maid	Hikikomori means a Japanese term referring to people who withdraw from social life and isolate themselves at home for extended periods.
+CC01f4000	アニマルメイド	Animal Maid	
+CC01f5000	ゴシックメイド	Gothic Maid	
+CC01f6000	チャイナメイド	Chinese-Style Maid	
+CC01f7000	バニーメイド	Bunny Maid	
+CC01f8000	メイド服	Maid Outfit	
+CC01f9000	吸血鬼メイド	Bloodsucker Maid	
+CC01fa000	和風メイド	Japanese-Style Maid	
+CC01fb000	殺し屋メイド	Assassin Maid	
+CC01fc000	猫型ロボットメイド	Cat-Type Robot Maid	
+CC01fd000	猫耳メイド	Cat-Eared Maid	
+CC01fe000	琉球メイド	Ryukyuan Maid	"Ryukyuan means traditional culture of Okinawa, Japan’s southern islands."
+CC01ff000	魔法メイド	Magical Maid	
+CC01fg000	魔法メイド学院	Magical Maid Institute	
+CC01g0000	モデル	Model	
+CC01g1000	撮影モデル	Photo Shoot Model	
+CC01h0000	ライバー	Live Streamer	
+CC01i0000	冒険者	Adventurer	
+CC01j0000	声優	Voice Actor	
+CC01k0000	女優	Actress	
+CC01k1000	AV女優	Adult Video Actress	
+CC01l0000	学生	Student	
+CC01l1000	女子学生	Schoolgirl	
+CC01l1100	女子大生	Female College Student	
+CC01m0000	巫女	Shrine Maiden	"In Japan, a shrine refers to a Shinto religious site, different from a church or temple."
+CC01n0000	店長	Store Manager	
+CC01n1000	1日店長	One-Day Store Manager	
+CC01o0000	忍者	Ninja	"Ninja is a historical figure from Japanese culture, traditionally a skilled assassin, spy, and master of stealth techniques, often depicted in popular media as performing acrobatic and martial arts feats."
+CC01p0000	戦士	Warrior	
+CC01p1000	伝説戦士	Legendary Warrior	
+CC01p2000	魔法戦士	Magical Warrior	
+CC01q0000	探偵	Detective	
+CC01r0000	殺し屋	Assassin	
+CC01r1000	殺し屋メイド	Assassin Maid (Assassin)	
+CC01s0000	海賊	Pirate	
+CC01t0000	看守	Prison Guard	
+CC01u0000	秘書	Secretary	
+CC01u1000	社長秘書	CEO’s Secretary	
+CC01v0000	警察	Police Officer	
+CC01v1000	あにぽり	Anipoli	Anipoli means anime police.
+CC01w0000	軍隊	Military Force	
