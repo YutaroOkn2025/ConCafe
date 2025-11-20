@@ -1,0 +1,850 @@
+CCterm	descEng	olderCCterm	cafeId	topKu	Age	EraClass	topKuEng	descEngV2	System	NodeShape	ClassLabel	topKu_grouped
+CC0100000	Occupation	CC0100000	CCafe004	新宿区	0.671	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe454	渋谷区	2.34	2020to2022	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe455	新宿区	2.42	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe459	千代田区	3.17	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe465	新宿区	6.51	2015to2019	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe471	文京区	3.25	2020to2022	Bunkyo Ward	Occupation	CC0100000	circle		Bunkyo Ward
+CC0100000	Occupation	CC0100000	CCafe473	千代田区	2.84	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe479	杉並区	4.0	2020to2022	Suginami Ward	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe480	新宿区	3.0	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe486	渋谷区	0.748	2023to2024	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe488	台東区	2.25	2020to2022	Taito Ward	Occupation	CC0100000	circle		Taito Ward
+CC0100000	Occupation	CC0100000	CCafe492	北区	3.25	2020to2022	Kita Ward	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe493	八王子市	3.25	2020to2022	Hachioji City	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe496	文京区	3.17	2020to2022	Bunkyo Ward	Occupation	CC0100000	circle		Bunkyo Ward
+CC0100000	Occupation	CC0100000	CCafe499	杉並区	2.25	2020to2022	Suginami Ward	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe502	港区	3.42	2020to2022	Minato Ward	Occupation	CC0100000	circle		Minato Ward
+CC0100000	Occupation	CC0100000	CCafe505	千代田区	3.34	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe506	台東区	3.51	2020to2022	Taito Ward	Occupation	CC0100000	circle		Taito Ward
+CC0100000	Occupation	CC0100000	CCafe514	豊島区	3.51	2020to2022	Toyoshima Ward	Occupation	CC0100000	circle		Toyoshima Ward
+CC0100000	Occupation	CC0100000	CCafe516	新宿区	3.42	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe517	大田区	2.5	2020to2022	Ota Ward	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe518	豊島区	11.3	2010to2014	Toyoshima Ward	Occupation	CC0100000	circle		Toyoshima Ward
+CC0100000	Occupation	CC0100000	CCafe522	中央区	6.09	2015to2019	Chyo Ward	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe526	中野区	4.42	2020to2022	Nakano Ward	Occupation	CC0100000	circle		Nakano Ward
+CC0100000	Occupation	CC0100000	CCafe529	新宿区	6.01	2015to2019	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe532	八王子市	4.75	2020to2022	Hachioji City	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe445	新宿区	2.25	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe536	渋谷区	3.75	2020to2022	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe444	千代田区	0.83	2023to2024	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe438	渋谷区	2.92	2020to2022	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe322	千代田区	7.17	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe328	杉並区	0.504	2023to2024	Suginami Ward	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe336	新宿区	0.252	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe338	渋谷区	0.419	2023to2024	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe345	港区	0.921	2023to2024	Minato Ward	Occupation	CC0100000	circle		Minato Ward
+CC0100000	Occupation	CC0100000	CCafe348	新宿区	0.921	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe352	豊島区	0.921	2023to2024	Toyoshima Ward	Occupation	CC0100000	circle		Toyoshima Ward
+CC0100000	Occupation	CC0100000	CCafe361	豊島区	1.17	2023to2024	Toyoshima Ward	Occupation	CC0100000	circle		Toyoshima Ward
+CC0100000	Occupation	CC0100000	CCafe368	新宿区	1.17	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe371	台東区	0.586	2023to2024	Taito Ward	Occupation	CC0100000	circle		Taito Ward
+CC0100000	Occupation	CC0100000	CCafe374	新宿区	2.0	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe379	目黒区	3.34	2020to2022	Meguro Ward	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe380	墨田区	2.92	2020to2022	Sumida Ward	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe382	新宿区	1.67	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe383	新宿区	5.51	2015to2019	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe385	新宿区	1.67	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe386	新宿区	1.75	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe390	台東区	5.01	2015to2019	Taito Ward	Occupation	CC0100000	circle		Taito Ward
+CC0100000	Occupation	CC0100000	CCafe392	港区	0.334	2023to2024	Minato Ward	Occupation	CC0100000	circle		Minato Ward
+CC0100000	Occupation	CC0100000	CCafe394	新宿区	4.09	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe399	中野区	2.17	2020to2022	Nakano Ward	Occupation	CC0100000	circle		Nakano Ward
+CC0100000	Occupation	CC0100000	CCafe428	台東区	2.0	2020to2022	Taito Ward	Occupation	CC0100000	circle		Taito Ward
+CC0100000	Occupation	CC0100000	CCafe431	立川市	3.09	2020to2022	Tachikawa City	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe435	新宿区	3.09	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe437	渋谷区	7.68	2015to2019	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe440	港区	3.84	2020to2022	Minato Ward	Occupation	CC0100000	circle		Minato Ward
+CC0100000	Occupation	CC0100000	CCafe540	豊島区	3.75	2020to2022	Toyoshima Ward	Occupation	CC0100000	circle		Toyoshima Ward
+CC0100000	Occupation	CC0100000	CCafe544	千代田区	8.25	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe546	千代田区	2.25	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe628	立川市	11.5	2010to2014	Tachikawa City	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe631	千代田区	11.7	2010to2014	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe632	千代田区	12.0	2010to2014	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe643	武蔵野市	13.0	2010to2014	Musashino City	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe646	千代田区	12.8	2010to2014	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe648	中野区	12.9	2010to2014	Nakano Ward	Occupation	CC0100000	circle		Nakano Ward
+CC0100000	Occupation	CC0100000	CCafe649	中央区	13.7	2010to2014	Chyo Ward	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe650	港区	1.17	2023to2024	Minato Ward	Occupation	CC0100000	circle		Minato Ward
+CC0100000	Occupation	CC0100000	CCafe651	港区	14.8	2010to2014	Minato Ward	Occupation	CC0100000	circle		Minato Ward
+CC0100000	Occupation	CC0100000	CCafe652	千代田区	20.3	Before 2010	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe653	千代田区	18.9	Before 2010	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe654	千代田区	13.9	2010to2014	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe655	千代田区	14.8	2010to2014	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe656	千代田区	15.3	Before 2010	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe657	千代田区	16.0	Before 2010	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe658	千代田区	16.6	Before 2010	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe659	豊島区	19.4	Before 2010	Toyoshima Ward	Occupation	CC0100000	circle		Toyoshima Ward
+CC0100000	Occupation	CC0100000	CCafe661	千代田区	14.3	2010to2014	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe662	千代田区	15.2	Before 2010	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe663	千代田区	19.0	Before 2010	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe665	千代田区	17.1	Before 2010	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe666	新宿区	13.1	2010to2014	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe667	千代田区	22.4	Before 2010	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe668	新宿区	16.5	Before 2010	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe670	千代田区	16.9	Before 2010	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe627	千代田区	5.42	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe626	町田市	14.3	2010to2014	Machida City	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe625	千代田区	11.0	2010to2014	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe622	千代田区	10.3	2010to2014	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe547	豊島区	4.25	2020to2022	Toyoshima Ward	Occupation	CC0100000	circle		Toyoshima Ward
+CC0100000	Occupation	CC0100000	CCafe548	千代田区	4.34	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe550	千代田区	4.42	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe552	渋谷区	5.42	2015to2019	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe554	新宿区	4.42	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe556	千代田区	4.42	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe559	千代田区	4.75	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe562	千代田区	4.67	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe568	千代田区	5.68	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe570	千代田区	5.92	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe581	千代田区	4.92	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe582	千代田区	5.68	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe318	新宿区	3.59	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe586	文京区	5.59	2015to2019	Bunkyo Ward	Occupation	CC0100000	circle		Bunkyo Ward
+CC0100000	Occupation	CC0100000	CCafe594	千代田区	6.09	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe598	渋谷区	7.26	2015to2019	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe601	千代田区	8.76	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe604	千代田区	8.34	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe607	新宿区	20.3	Before 2010	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe610	千代田区	2.0	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe611	千代田区	2.25	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe612	千代田区	9.09	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe613	千代田区	9.84	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe615	港区	9.09	2015to2019	Minato Ward	Occupation	CC0100000	circle		Minato Ward
+CC0100000	Occupation	CC0100000	CCafe616	千代田区	6.59	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe618	千代田区	2.67	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe588	新宿区	5.84	2015to2019	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe314	渋谷区	0.671	2023to2024	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe450	台東区	3.0	2020to2022	Taito Ward	Occupation	CC0100000	circle		Taito Ward
+CC0100000	Occupation	CC0100000	CCafe307	新宿区	0.586	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe108	千代田区	1.84	2023to2024	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe110	新宿区	1.59	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe112	杉並区	1.51	2023to2024	Suginami Ward	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe117	新宿区	3.67	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe118	町田市	3.84	2020to2022	Machida City	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe119	新宿区	3.75	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe120	千代田区	4.51	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe123	千代田区	4.92	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe125	千代田区	11.3	2010to2014	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe126	千代田区	1.92	2023to2024	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe127	新宿区	1.92	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe130	板橋区	2.92	2020to2022	Itabashi Ward	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe131	千代田区	2.17	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe132	千代田区	2.25	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe134	千代田区	2.42	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe136	世田谷区	2.42	2020to2022	Setagaya Ward	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe138	千代田区	4.09	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe147	豊島区	2.59	2020to2022	Toyoshima Ward	Occupation	CC0100000	circle		Toyoshima Ward
+CC0100000	Occupation	CC0100000	CCafe149	文京区	2.84	2020to2022	Bunkyo Ward	Occupation	CC0100000	circle		Bunkyo Ward
+CC0100000	Occupation	CC0100000	CCafe156	千代田区	2.58	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe165	千代田区	3.92	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe168	中央区	4.09	2020to2022	Chyo Ward	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe174	千代田区	11.5	2010to2014	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe175	千代田区	4.75	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe176	千代田区	1.09	2023to2024	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe107	新宿区	5.26	2015to2019	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe106	千代田区	1.25	2023to2024	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe105	豊島区	1.17	2023to2024	Toyoshima Ward	Occupation	CC0100000	circle		Toyoshima Ward
+CC0100000	Occupation	CC0100000	CCafe309	町田市	0.586	2023to2024	Machida City	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe006	台東区	0.921	2023to2024	Taito Ward	Occupation	CC0100000	circle		Taito Ward
+CC0100000	Occupation	CC0100000	CCafe007	新宿区	0.586	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe011	台東区	0.671	2023to2024	Taito Ward	Occupation	CC0100000	circle		Taito Ward
+CC0100000	Occupation	CC0100000	CCafe018	新宿区	1.09	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe019	新宿区	1.34	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe021	新宿区	2.34	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe024	文京区	3.59	2020to2022	Bunkyo Ward	Occupation	CC0100000	circle		Bunkyo Ward
+CC0100000	Occupation	CC0100000	CCafe028	新宿区	1.25	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe034	新宿区	0.586	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe037	千代田区	0.671	2023to2024	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe042	千代田区	0.751	2023to2024	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe043	渋谷区	0.751	2023to2024	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe177	港区	1.17	2023to2024	Minato Ward	Occupation	CC0100000	circle		Minato Ward
+CC0100000	Occupation	CC0100000	CCafe044	新宿区	2.0	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe050	中野区	1.17	2023to2024	Nakano Ward	Occupation	CC0100000	circle		Nakano Ward
+CC0100000	Occupation	CC0100000	CCafe055	新宿区	0.921	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe056	新宿区	0.921	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe058	文京区	1.0	2023to2024	Bunkyo Ward	Occupation	CC0100000	circle		Bunkyo Ward
+CC0100000	Occupation	CC0100000	CCafe063	千代田区	1.09	2023to2024	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe064	文京区	1.59	2023to2024	Bunkyo Ward	Occupation	CC0100000	circle		Bunkyo Ward
+CC0100000	Occupation	CC0100000	CCafe066	新宿区	1.75	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe068	新宿区	2.51	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe072	武蔵野市	3.0	2020to2022	Musashino City	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe079	千代田区	0.921	2023to2024	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe080	世田谷区	1.34	2023to2024	Setagaya Ward	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe084	千代田区	1.75	2023to2024	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe049	渋谷区	0.921	2023to2024	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe178	千代田区	6.42	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe099	千代田区	4.34	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe184	渋谷区	1.34	2023to2024	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe250	豊島区	4.92	2020to2022	Toyoshima Ward	Occupation	CC0100000	circle		Toyoshima Ward
+CC0100000	Occupation	CC0100000	CCafe254	千代田区	2.17	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe255	新宿区	2.59	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe257	千代田区	3.42	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe260	千代田区	3.75	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe263	新宿区	5.68	2015to2019	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe267	千代田区	1.67	2023to2024	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe270	千代田区	6.01	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe271	千代田区	6.17	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe272	千代田区	2.92	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe273	千代田区	7.26	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe275	千代田区	10.6	2010to2014	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe248	新宿区	3.34	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe278	千代田区	6.25	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe282	千代田区	7.75	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe283	中野区	9.68	2015to2019	Nakano Ward	Occupation	CC0100000	circle		Nakano Ward
+CC0100000	Occupation	CC0100000	CCafe284	豊島区	10.4	2010to2014	Toyoshima Ward	Occupation	CC0100000	circle		Toyoshima Ward
+CC0100000	Occupation	CC0100000	CCafe286	千代田区	9.01	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe287	北区	5.75	2015to2019	Kita Ward	Occupation	CC0100000	circle		Others
+CC0100000	Occupation	CC0100000	CCafe288	千代田区	9.01	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe289	千代田区	9.59	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe292	千代田区	11.6	2010to2014	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe295	千代田区	21.0	Before 2010	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe296	千代田区	3.17	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe299	新宿区	7.68	2015to2019	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe183	渋谷区	1.34	2023to2024	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe280	千代田区	7.42	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe247	千代田区	3.17	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe277	千代田区	5.84	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe245	豊島区	4.25	2020to2022	Toyoshima Ward	Occupation	CC0100000	circle		Toyoshima Ward
+CC0100000	Occupation	CC0100000	CCafe187	豊島区	4.67	2020to2022	Toyoshima Ward	Occupation	CC0100000	circle		Toyoshima Ward
+CC0100000	Occupation	CC0100000	CCafe246	千代田区	5.51	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe189	新宿区	5.26	2015to2019	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe191	千代田区	9.18	2015to2019	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe192	港区	5.01	2015to2019	Minato Ward	Occupation	CC0100000	circle		Minato Ward
+CC0100000	Occupation	CC0100000	CCafe193	新宿区	5.51	2015to2019	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe197	中野区	13.3	2010to2014	Nakano Ward	Occupation	CC0100000	circle		Nakano Ward
+CC0100000	Occupation	CC0100000	CCafe200	千代田区	15.9	Before 2010	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe206	新宿区	1.17	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe207	渋谷区	1.34	2023to2024	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe209	豊島区	1.34	2023to2024	Toyoshima Ward	Occupation	CC0100000	circle		Toyoshima Ward
+CC0100000	Occupation	CC0100000	CCafe212	台東区	1.34	2023to2024	Taito Ward	Occupation	CC0100000	circle		Taito Ward
+CC0100000	Occupation	CC0100000	CCafe214	新宿区	1.42	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe202	渋谷区	3.92	2020to2022	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe237	千代田区	2.17	2020to2022	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe218	千代田区	1.42	2023to2024	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe225	千代田区	1.75	2023to2024	Chiyoda Ward	Occupation	CC0100000	circle		Chiyoda Ward
+CC0100000	Occupation	CC0100000	CCafe226	新宿区	1.59	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe232	渋谷区	10.0	2010to2014	Shibuya Ward	Occupation	CC0100000	circle		Shibuya Ward
+CC0100000	Occupation	CC0100000	CCafe233	新宿区	1.92	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe235	文京区	1.84	2023to2024	Bunkyo Ward	Occupation	CC0100000	circle		Bunkyo Ward
+CC0100000	Occupation	CC0100000	CCafe238	文京区	3.0	2020to2022	Bunkyo Ward	Occupation	CC0100000	circle		Bunkyo Ward
+CC0100000	Occupation	CC0100000	CCafe240	台東区	2.25	2020to2022	Taito Ward	Occupation	CC0100000	circle		Taito Ward
+CC0100000	Occupation	CC0100000	CCafe242	港区	3.25	2020to2022	Minato Ward	Occupation	CC0100000	circle		Minato Ward
+CC0100000	Occupation	CC0100000	CCafe217	新宿区	1.09	2023to2024	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0100000	Occupation	CC0100000	CCafe243	新宿区	3.17	2020to2022	Shinjyuku Ward	Occupation	CC0100000	circle		Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe536	渋谷区	3.75	2020to2022	Shibuya Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0110000	Music and Performance	CC0130000	CCafe539	渋谷区		2023to2024	Shibuya Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0110000	Music and Performance	CC0130000	CCafe454	渋谷区	2.34	2020to2022	Shibuya Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0110000	Music and Performance	CC0130000	CCafe547	豊島区	4.25	2020to2022	Toyoshima Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Toyoshima Ward
+CC0110000	Music and Performance	CC0130000	CCafe529	新宿区	6.01	2015to2019	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe486	渋谷区	0.748	2023to2024	Shibuya Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0110000	Music and Performance	CC0130000	CCafe455	新宿区	2.42	2020to2022	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe479	杉並区	4.0	2020to2022	Suginami Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Others
+CC0110000	Music and Performance	CC0130000	CCafe478	文京区		2023to2024	Bunkyo Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Bunkyo Ward
+CC0110000	Music and Performance	CC0130000	CCafe444	千代田区	0.83	2023to2024	Chiyoda Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0110000	Music and Performance	CC0130000	CCafe465	新宿区	6.51	2015to2019	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe552	渋谷区	5.42	2015to2019	Shibuya Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0110000	Music and Performance	CC0130000	CCafe480	新宿区	3.0	2020to2022	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe577	千代田区		2023to2024	Chiyoda Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0110000	Music and Performance	CC0137000	CCafe064	文京区	1.59	2023to2024	Bunkyo Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Bunkyo Ward
+CC0110000	Music and Performance	CC0130000	CCafe591	墨田区		2023to2024	Sumida Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Others
+CC0110000	Music and Performance	CC0130000	CCafe612	千代田区	9.09	2015to2019	Chiyoda Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0110000	Music and Performance	CC0130000	CCafe649	中央区	13.7	2010to2014	Chyo Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Others
+CC0110000	Music and Performance	CC0130000	CCafe670	千代田区	16.9	Before 2010	Chiyoda Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0110000	Music and Performance	CC0131000	CCafe577	千代田区		2023to2024	Chiyoda Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0110000	Music and Performance	CC0132000	CCafe218	千代田区	1.42	2023to2024	Chiyoda Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0110000	Music and Performance	CC0133000	CCafe028	新宿区	1.25	2023to2024	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0133000	CCafe049	渋谷区	0.921	2023to2024	Shibuya Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0110000	Music and Performance	CC0134000	CCafe612	千代田区	9.09	2015to2019	Chiyoda Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0110000	Music and Performance	CC0135000	CCafe233	新宿区	1.92	2023to2024	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0136000	CCafe021	新宿区	2.34	2020to2022	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0138000	CCafe379	目黒区	3.34	2020to2022	Meguro Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Others
+CC0110000	Music and Performance	CC0130000	CCafe440	港区	3.84	2020to2022	Minato Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Minato Ward
+CC0110000	Music and Performance	CC01h0000	CCafe435	新宿区	3.09	2020to2022	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe588	新宿区	5.84	2015to2019	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe437	渋谷区	7.68	2015to2019	Shibuya Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0110000	Music and Performance	CC0130000	CCafe299	新宿区	7.68	2015to2019	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe421	新宿区		2023to2024	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC01j0000	CCafe149	文京区	2.84	2020to2022	Bunkyo Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Bunkyo Ward
+CC0110000	Music and Performance	CC0130000	CCafe343	新宿区		2023to2024	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe336	新宿区	0.252	2023to2024	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe314	渋谷区	0.671	2023to2024	Shibuya Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0110000	Music and Performance	CC0130000	CCafe296	千代田区	3.17	2020to2022	Chiyoda Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0110000	Music and Performance	CC0130000	CCafe245	豊島区	4.25	2020to2022	Toyoshima Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Toyoshima Ward
+CC0110000	Music and Performance	CC0130000	CCafe233	新宿区	1.92	2023to2024	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe218	千代田区	1.42	2023to2024	Chiyoda Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0110000	Music and Performance	CC0130000	CCafe214	新宿区	1.42	2023to2024	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe202	渋谷区	3.92	2020to2022	Shibuya Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0110000	Music and Performance	CC0130000	CCafe192	港区	5.01	2015to2019	Minato Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Minato Ward
+CC0110000	Music and Performance	CC0130000	CCafe191	千代田区	9.18	2015to2019	Chiyoda Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0110000	Music and Performance	CC0130000	CCafe178	千代田区	6.42	2015to2019	Chiyoda Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0110000	Music and Performance	CC0130000	CCafe132	千代田区	2.25	2020to2022	Chiyoda Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0110000	Music and Performance	CC0130000	CCafe126	千代田区	1.92	2023to2024	Chiyoda Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0110000	Music and Performance	CC0130000	CCafe123	千代田区	4.92	2020to2022	Chiyoda Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0110000	Music and Performance	CC0130000	CCafe118	町田市	3.84	2020to2022	Machida City	Music and Performance	CC011XXXX	triangle	Music and Performance	Others
+CC0110000	Music and Performance	CC0130000	CCafe112	杉並区	1.51	2023to2024	Suginami Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Others
+CC0110000	Music and Performance	CC0130000	CCafe064	文京区	1.59	2023to2024	Bunkyo Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Bunkyo Ward
+CC0110000	Music and Performance	CC0130000	CCafe049	渋谷区	0.921	2023to2024	Shibuya Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0110000	Music and Performance	CC0130000	CCafe043	渋谷区	0.751	2023to2024	Shibuya Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0110000	Music and Performance	CC0130000	CCafe028	新宿区	1.25	2023to2024	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe021	新宿区	2.34	2020to2022	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe019	新宿区	1.34	2023to2024	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe018	新宿区	1.09	2023to2024	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe006	台東区	0.921	2023to2024	Taito Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Taito Ward
+CC0110000	Music and Performance	CC0110000	CCafe371	台東区	0.586	2023to2024	Taito Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Taito Ward
+CC0110000	Music and Performance	CC0130000	CCafe385	新宿区	1.67	2023to2024	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe390	台東区	5.01	2015to2019	Taito Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Taito Ward
+CC0110000	Music and Performance	CC0130000	CCafe431	立川市	3.09	2020to2022	Tachikawa City	Music and Performance	CC011XXXX	triangle	Music and Performance	Others
+CC0110000	Music and Performance	CC01j0000	CCafe662	千代田区	15.2	Before 2010	Chiyoda Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0110000	Music and Performance	CC0130000	CCafe383	新宿区	5.51	2015to2019	Shinjyuku Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0110000	Music and Performance	CC0130000	CCafe379	目黒区	3.34	2020to2022	Meguro Ward	Music and Performance	CC011XXXX	triangle	Music and Performance	Others
+CC0111000	DJ	CC0110000	CCafe371	台東区	0.586	2023to2024	Taito Ward	DJ	CC011XXXX	triangle	Music and Performance	Taito Ward
+CC0112000	Idol	CC0130000	CCafe547	豊島区	4.25	2020to2022	Toyoshima Ward	Idol	CC011XXXX	triangle	Music and Performance	Toyoshima Ward
+CC0112000	Idol	CC0130000	CCafe379	目黒区	3.34	2020to2022	Meguro Ward	Idol	CC011XXXX	triangle	Music and Performance	Others
+CC0112000	Idol	CC0130000	CCafe383	新宿区	5.51	2015to2019	Shinjyuku Ward	Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112000	Idol	CC0130000	CCafe385	新宿区	1.67	2023to2024	Shinjyuku Ward	Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112000	Idol	CC0130000	CCafe390	台東区	5.01	2015to2019	Taito Ward	Idol	CC011XXXX	triangle	Music and Performance	Taito Ward
+CC0112000	Idol	CC0130000	CCafe431	立川市	3.09	2020to2022	Tachikawa City	Idol	CC011XXXX	triangle	Music and Performance	Others
+CC0112000	Idol	CC0130000	CCafe437	渋谷区	7.68	2015to2019	Shibuya Ward	Idol	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0112000	Idol	CC0130000	CCafe440	港区	3.84	2020to2022	Minato Ward	Idol	CC011XXXX	triangle	Music and Performance	Minato Ward
+CC0112000	Idol	CC0130000	CCafe444	千代田区	0.83	2023to2024	Chiyoda Ward	Idol	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0112000	Idol	CC0130000	CCafe454	渋谷区	2.34	2020to2022	Shibuya Ward	Idol	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0112000	Idol	CC0130000	CCafe465	新宿区	6.51	2015to2019	Shinjyuku Ward	Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112000	Idol	CC0130000	CCafe479	杉並区	4.0	2020to2022	Suginami Ward	Idol	CC011XXXX	triangle	Music and Performance	Others
+CC0112000	Idol	CC0130000	CCafe480	新宿区	3.0	2020to2022	Shinjyuku Ward	Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112000	Idol	CC0130000	CCafe486	渋谷区	0.748	2023to2024	Shibuya Ward	Idol	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0112000	Idol	CC0130000	CCafe529	新宿区	6.01	2015to2019	Shinjyuku Ward	Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112000	Idol	CC0130000	CCafe536	渋谷区	3.75	2020to2022	Shibuya Ward	Idol	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0112000	Idol	CC0130000	CCafe552	渋谷区	5.42	2015to2019	Shibuya Ward	Idol	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0112000	Idol	CC0130000	CCafe588	新宿区	5.84	2015to2019	Shinjyuku Ward	Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112000	Idol	CC0130000	CCafe612	千代田区	9.09	2015to2019	Chiyoda Ward	Idol	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0112000	Idol	CC0130000	CCafe649	中央区	13.7	2010to2014	Chyo Ward	Idol	CC011XXXX	triangle	Music and Performance	Others
+CC0112000	Idol	CC0130000	CCafe670	千代田区	16.9	Before 2010	Chiyoda Ward	Idol	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0112000	Idol	CC0130000	CCafe336	新宿区	0.252	2023to2024	Shinjyuku Ward	Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112000	Idol	CC0130000	CCafe314	渋谷区	0.671	2023to2024	Shibuya Ward	Idol	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0112000	Idol	CC0130000	CCafe455	新宿区	2.42	2020to2022	Shinjyuku Ward	Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112000	Idol	CC0130000	CCafe296	千代田区	3.17	2020to2022	Chiyoda Ward	Idol	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0112000	Idol	CC0130000	CCafe019	新宿区	1.34	2023to2024	Shinjyuku Ward	Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112000	Idol	CC0130000	CCafe021	新宿区	2.34	2020to2022	Shinjyuku Ward	Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112000	Idol	CC0130000	CCafe028	新宿区	1.25	2023to2024	Shinjyuku Ward	Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112000	Idol	CC0130000	CCafe043	渋谷区	0.751	2023to2024	Shibuya Ward	Idol	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0112000	Idol	CC0130000	CCafe049	渋谷区	0.921	2023to2024	Shibuya Ward	Idol	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0112000	Idol	CC0130000	CCafe064	文京区	1.59	2023to2024	Bunkyo Ward	Idol	CC011XXXX	triangle	Music and Performance	Bunkyo Ward
+CC0112000	Idol	CC0130000	CCafe112	杉並区	1.51	2023to2024	Suginami Ward	Idol	CC011XXXX	triangle	Music and Performance	Others
+CC0112000	Idol	CC0130000	CCafe118	町田市	3.84	2020to2022	Machida City	Idol	CC011XXXX	triangle	Music and Performance	Others
+CC0112000	Idol	CC0130000	CCafe123	千代田区	4.92	2020to2022	Chiyoda Ward	Idol	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0112000	Idol	CC0130000	CCafe018	新宿区	1.09	2023to2024	Shinjyuku Ward	Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112000	Idol	CC0130000	CCafe126	千代田区	1.92	2023to2024	Chiyoda Ward	Idol	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0112000	Idol	CC0130000	CCafe132	千代田区	2.25	2020to2022	Chiyoda Ward	Idol	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0112000	Idol	CC0130000	CCafe178	千代田区	6.42	2015to2019	Chiyoda Ward	Idol	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0112000	Idol	CC0130000	CCafe191	千代田区	9.18	2015to2019	Chiyoda Ward	Idol	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0112000	Idol	CC0130000	CCafe192	港区	5.01	2015to2019	Minato Ward	Idol	CC011XXXX	triangle	Music and Performance	Minato Ward
+CC0112000	Idol	CC0130000	CCafe202	渋谷区	3.92	2020to2022	Shibuya Ward	Idol	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0112000	Idol	CC0130000	CCafe214	新宿区	1.42	2023to2024	Shinjyuku Ward	Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112000	Idol	CC0130000	CCafe218	千代田区	1.42	2023to2024	Chiyoda Ward	Idol	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0112000	Idol	CC0130000	CCafe233	新宿区	1.92	2023to2024	Shinjyuku Ward	Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112000	Idol	CC0130000	CCafe245	豊島区	4.25	2020to2022	Toyoshima Ward	Idol	CC011XXXX	triangle	Music and Performance	Toyoshima Ward
+CC0112000	Idol	CC0130000	CCafe299	新宿区	7.68	2015to2019	Shinjyuku Ward	Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112000	Idol	CC0130000	CCafe006	台東区	0.921	2023to2024	Taito Ward	Idol	CC011XXXX	triangle	Music and Performance	Taito Ward
+CC0112200	Idol School	CC0132000	CCafe218	千代田区	1.42	2023to2024	Chiyoda Ward	Idol School	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0112300	Idol Development	CC0133000	CCafe028	新宿区	1.25	2023to2024	Shinjyuku Ward	Idol Development	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112300	Idol Development	CC0133000	CCafe049	渋谷区	0.921	2023to2024	Shibuya Ward	Idol Development	CC011XXXX	triangle	Music and Performance	Shibuya Ward
+CC0112400	Gravure Idol	CC0134000	CCafe612	千代田区	9.09	2015to2019	Chiyoda Ward	Gravure Idol	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0112500	Virtual Idol	CC0135000	CCafe233	新宿区	1.92	2023to2024	Shinjyuku Ward	Virtual Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112600	Orthodox Idol	CC0136000	CCafe021	新宿区	2.34	2020to2022	Shinjyuku Ward	Orthodox Idol	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0112700	K-Pop Idol	CC0137000	CCafe064	文京区	1.59	2023to2024	Bunkyo Ward	K-Pop Idol	CC011XXXX	triangle	Music and Performance	Bunkyo Ward
+CC0112800	Drinkable Idol	CC0138000	CCafe379	目黒区	3.34	2020to2022	Meguro Ward	Drinkable Idol	CC011XXXX	triangle	Music and Performance	Others
+CC0113000	Live Streamer	CC01h0000	CCafe435	新宿区	3.09	2020to2022	Shinjyuku Ward	Live Streamer	CC011XXXX	triangle	Music and Performance	Shinjyuku Ward
+CC0114000	Voice Actor	CC01j0000	CCafe662	千代田区	15.2	Before 2010	Chiyoda Ward	Voice Actor	CC011XXXX	triangle	Music and Performance	Chiyoda Ward
+CC0114000	Voice Actor	CC01j0000	CCafe149	文京区	2.84	2020to2022	Bunkyo Ward	Voice Actor	CC011XXXX	triangle	Music and Performance	Bunkyo Ward
+CC0120000	Model and Talent	CC01g0000	CCafe108	千代田区	1.84	2023to2024	Chiyoda Ward	Others	CC012XXXX	rectangle	Others	Chiyoda Ward
+CC0120000	Model and Talent	CC0140000	CCafe444	千代田区	0.83	2023to2024	Chiyoda Ward	Others	CC012XXXX	rectangle	Others	Chiyoda Ward
+CC0120000	Model and Talent	CC0140000	CCafe134	千代田区	2.42	2020to2022	Chiyoda Ward	Others	CC012XXXX	rectangle	Others	Chiyoda Ward
+CC0120000	Model and Talent	CC0140000	CCafe055	新宿区	0.921	2023to2024	Shinjyuku Ward	Others	CC012XXXX	rectangle	Others	Shinjyuku Ward
+CC0120000	Model and Talent	CC01g1000	CCafe108	千代田区	1.84	2023to2024	Chiyoda Ward	Others	CC012XXXX	rectangle	Others	Chiyoda Ward
+CC0120000	Model and Talent	CC01a0000	CCafe431	立川市	3.09	2020to2022	Tachikawa City	Others	CC012XXXX	rectangle	Others	Others
+CC0120000	Model and Talent	CC01a0000	CCafe478	文京区		2023to2024	Bunkyo Ward	Others	CC012XXXX	rectangle	Others	Bunkyo Ward
+CC0120000	Model and Talent	CC01g0000	CCafe192	港区	5.01	2015to2019	Minato Ward	Others	CC012XXXX	rectangle	Others	Minato Ward
+CC0121000	Talent	CC01a0000	CCafe431	立川市	3.09	2020to2022	Tachikawa City	Talent	CC012XXXX	rectangle	Others	Others
+CC0122000	Model	CC01g0000	CCafe108	千代田区	1.84	2023to2024	Chiyoda Ward	Model	CC012XXXX	rectangle	Others	Chiyoda Ward
+CC0122000	Model	CC01g0000	CCafe192	港区	5.01	2015to2019	Minato Ward	Model	CC012XXXX	rectangle	Others	Minato Ward
+CC0122100	Photo Shoot Model	CC01g1000	CCafe108	千代田区	1.84	2023to2024	Chiyoda Ward	Photo Shoot Model	CC012XXXX	rectangle	Others	Chiyoda Ward
+CC0123000	Influencer	CC0140000	CCafe055	新宿区	0.921	2023to2024	Shinjyuku Ward	Influencer	CC012XXXX	rectangle	Others	Shinjyuku Ward
+CC0123000	Influencer	CC0140000	CCafe134	千代田区	2.42	2020to2022	Chiyoda Ward	Influencer	CC012XXXX	rectangle	Others	Chiyoda Ward
+CC0123000	Influencer	CC0140000	CCafe444	千代田区	0.83	2023to2024	Chiyoda Ward	Influencer	CC012XXXX	rectangle	Others	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe544	千代田区	8.25	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe574	千代田区		2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe576	千代田区		2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe581	千代田区	4.92	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe582	千代田区	5.68	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe586	文京区	5.59	2015to2019	Bunkyo Ward	Food and Service	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0130000	Food and Service	CC01f0000	CCafe594	千代田区	6.09	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe596	千代田区		2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe598	渋谷区	7.26	2015to2019	Shibuya Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shibuya Ward
+CC0130000	Food and Service	CC01f0000	CCafe570	千代田区	5.92	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe600	千代田区		2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe603	千代田区		2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe604	千代田区	8.34	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe607	新宿区	20.3	Before 2010	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe610	千代田区	2.0	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe611	千代田区	2.25	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe613	千代田区	9.84	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe615	港区	9.09	2015to2019	Minato Ward	Food and Service	CC013XXXX	diamond	Food and Service	Minato Ward
+CC0130000	Food and Service	CC01f0000	CCafe618	千代田区	2.67	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe601	千代田区	8.76	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe622	千代田区	10.3	2010to2014	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe568	千代田区	5.68	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe560	千代田区		2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe546	千代田区	2.25	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe068	新宿区	2.51	2020to2022	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe063	千代田区	1.09	2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe058	文京区	1.0	2023to2024	Bunkyo Ward	Food and Service	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0130000	Food and Service	CC01f0000	CCafe056	新宿区	0.921	2023to2024	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe050	中野区	1.17	2023to2024	Nakano Ward	Food and Service	CC013XXXX	diamond	Food and Service	Nakano Ward
+CC0130000	Food and Service	CC01f0000	CCafe044	新宿区	2.0	2020to2022	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe037	千代田区	0.671	2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe562	千代田区	4.67	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe034	新宿区	0.586	2023to2024	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe007	新宿区	0.586	2023to2024	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe004	新宿区	0.671	2023to2024	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC0151000	CCafe318	新宿区	3.59	2020to2022	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC0150000	CCafe668	新宿区	16.5	Before 2010	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC0150000	CCafe667	千代田区	22.4	Before 2010	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC0150000	CCafe318	新宿区	3.59	2020to2022	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe550	千代田区	4.42	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe554	新宿区	4.42	2020to2022	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe024	文京区	3.59	2020to2022	Bunkyo Ward	Food and Service	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0130000	Food and Service	CC01f0000	CCafe079	千代田区	0.921	2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe623	千代田区		2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe630	千代田区		2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f3000	CCafe024	文京区	3.59	2020to2022	Bunkyo Ward	Food and Service	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0130000	Food and Service	CC01f4000	CCafe289	千代田区	9.59	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f5000	CCafe246	千代田区	5.51	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f6000	CCafe004	新宿区	0.671	2023to2024	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f7000	CCafe345	港区	0.921	2023to2024	Minato Ward	Food and Service	CC013XXXX	diamond	Food and Service	Minato Ward
+CC0130000	Food and Service	CC01f8000	CCafe492	北区	3.25	2020to2022	Kita Ward	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01f9000	CCafe206	新宿区	1.17	2023to2024	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01fa000	CCafe240	台東区	2.25	2020to2022	Taito Ward	Food and Service	CC013XXXX	diamond	Food and Service	Taito Ward
+CC0130000	Food and Service	CC01f2000	CCafe050	中野区	1.17	2023to2024	Nakano Ward	Food and Service	CC013XXXX	diamond	Food and Service	Nakano Ward
+CC0130000	Food and Service	CC01fb000	CCafe248	新宿区	3.34	2020to2022	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01fd000	CCafe072	武蔵野市	3.0	2020to2022	Musashino City	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01fd000	CCafe079	千代田区	0.921	2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01fd000	CCafe344	文京区		2023to2024	Bunkyo Ward	Food and Service	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0130000	Food and Service	CC01fe000	CCafe242	港区	3.25	2020to2022	Minato Ward	Food and Service	CC013XXXX	diamond	Food and Service	Minato Ward
+CC0130000	Food and Service	CC01ff000	CCafe581	千代田区	4.92	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01fg000	CCafe622	千代田区	10.3	2010to2014	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01n0000	CCafe238	文京区	3.0	2020to2022	Bunkyo Ward	Food and Service	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0130000	Food and Service	CC01n1000	CCafe238	文京区	3.0	2020to2022	Bunkyo Ward	Food and Service	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0130000	Food and Service	CC01fc000	CCafe445	新宿区	2.25	2020to2022	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe625	千代田区	11.0	2010to2014	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f1000	CCafe460	豊島区		2023to2024	Toyoshima Ward	Food and Service	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0130000	Food and Service	CC01f0000	CCafe666	新宿区	13.1	2010to2014	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe631	千代田区	11.7	2010to2014	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe632	千代田区	12.0	2010to2014	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe646	千代田区	12.8	2010to2014	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe647	千代田区		2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe648	中野区	12.9	2010to2014	Nakano Ward	Food and Service	CC013XXXX	diamond	Food and Service	Nakano Ward
+CC0130000	Food and Service	CC01f0000	CCafe649	中央区	13.7	2010to2014	Chyo Ward	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01f0000	CCafe650	港区	1.17	2023to2024	Minato Ward	Food and Service	CC013XXXX	diamond	Food and Service	Minato Ward
+CC0130000	Food and Service	CC01f0000	CCafe652	千代田区	20.3	Before 2010	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe667	千代田区	22.4	Before 2010	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe653	千代田区	18.9	Before 2010	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe655	千代田区	14.8	2010to2014	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe656	千代田区	15.3	Before 2010	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe657	千代田区	16.0	Before 2010	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe658	千代田区	16.6	Before 2010	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe659	豊島区	19.4	Before 2010	Toyoshima Ward	Food and Service	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0130000	Food and Service	CC01f0000	CCafe661	千代田区	14.3	2010to2014	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe663	千代田区	19.0	Before 2010	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe665	千代田区	17.1	Before 2010	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe654	千代田区	13.9	2010to2014	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe080	世田谷区	1.34	2023to2024	Setagaya Ward	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01f0000	CCafe072	武蔵野市	3.0	2020to2022	Musashino City	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01f0000	CCafe099	千代田区	4.34	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe382	新宿区	1.67	2023to2024	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe380	墨田区	2.92	2020to2022	Sumida Ward	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01f0000	CCafe374	新宿区	2.0	2020to2022	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe367	新宿区		2023to2024	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe361	豊島区	1.17	2023to2024	Toyoshima Ward	Food and Service	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0130000	Food and Service	CC01f0000	CCafe348	新宿区	0.921	2023to2024	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe345	港区	0.921	2023to2024	Minato Ward	Food and Service	CC013XXXX	diamond	Food and Service	Minato Ward
+CC0130000	Food and Service	CC01f0000	CCafe344	文京区		2023to2024	Bunkyo Ward	Food and Service	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0130000	Food and Service	CC01f0000	CCafe386	新宿区	1.75	2023to2024	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe338	渋谷区	0.419	2023to2024	Shibuya Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shibuya Ward
+CC0130000	Food and Service	CC01f0000	CCafe309	町田市	0.586	2023to2024	Machida City	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01f0000	CCafe307	新宿区	0.586	2023to2024	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe295	千代田区	21.0	Before 2010	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe289	千代田区	9.59	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe288	千代田区	9.01	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe287	北区	5.75	2015to2019	Kita Ward	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01f0000	CCafe286	千代田区	9.01	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe084	千代田区	1.75	2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe322	千代田区	7.17	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe282	千代田区	7.75	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe399	中野区	2.17	2020to2022	Nakano Ward	Food and Service	CC013XXXX	diamond	Food and Service	Nakano Ward
+CC0130000	Food and Service	CC01f0000	CCafe445	新宿区	2.25	2020to2022	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe540	豊島区	3.75	2020to2022	Toyoshima Ward	Food and Service	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0130000	Food and Service	CC01f0000	CCafe532	八王子市	4.75	2020to2022	Hachioji City	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01f0000	CCafe526	中野区	4.42	2020to2022	Nakano Ward	Food and Service	CC013XXXX	diamond	Food and Service	Nakano Ward
+CC0130000	Food and Service	CC01f0000	CCafe522	中央区	6.09	2015to2019	Chyo Ward	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01f0000	CCafe516	新宿区	3.42	2020to2022	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe514	豊島区	3.51	2020to2022	Toyoshima Ward	Food and Service	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0130000	Food and Service	CC01f0000	CCafe506	台東区	3.51	2020to2022	Taito Ward	Food and Service	CC013XXXX	diamond	Food and Service	Taito Ward
+CC0130000	Food and Service	CC01f0000	CCafe505	千代田区	3.34	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe438	渋谷区	2.92	2020to2022	Shibuya Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shibuya Ward
+CC0130000	Food and Service	CC01f0000	CCafe496	文京区	3.17	2020to2022	Bunkyo Ward	Food and Service	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0130000	Food and Service	CC01f0000	CCafe492	北区	3.25	2020to2022	Kita Ward	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01f0000	CCafe488	台東区	2.25	2020to2022	Taito Ward	Food and Service	CC013XXXX	diamond	Food and Service	Taito Ward
+CC0130000	Food and Service	CC01f0000	CCafe484	杉並区		2023to2024	Suginami Ward	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01f0000	CCafe473	千代田区	2.84	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe471	文京区	3.25	2020to2022	Bunkyo Ward	Food and Service	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0130000	Food and Service	CC01f0000	CCafe460	豊島区		2023to2024	Toyoshima Ward	Food and Service	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0130000	Food and Service	CC01f0000	CCafe459	千代田区	3.17	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe450	台東区	3.0	2020to2022	Taito Ward	Food and Service	CC013XXXX	diamond	Food and Service	Taito Ward
+CC0130000	Food and Service	CC01f0000	CCafe493	八王子市	3.25	2020to2022	Hachioji City	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01f0000	CCafe280	千代田区	7.42	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe284	豊島区	10.4	2010to2014	Toyoshima Ward	Food and Service	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0130000	Food and Service	CC01f0000	CCafe277	千代田区	5.84	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe278	千代田区	6.25	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe176	千代田区	1.09	2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe175	千代田区	4.75	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe174	千代田区	11.5	2010to2014	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe168	中央区	4.09	2020to2022	Chyo Ward	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01f0000	CCafe165	千代田区	3.92	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe156	千代田区	2.58	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe138	千代田区	4.09	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe189	新宿区	5.26	2015to2019	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe136	世田谷区	2.42	2020to2022	Setagaya Ward	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01f0000	CCafe130	板橋区	2.92	2020to2022	Itabashi Ward	Food and Service	CC013XXXX	diamond	Food and Service	Others
+CC0130000	Food and Service	CC01f0000	CCafe127	新宿区	1.92	2023to2024	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe120	千代田区	4.51	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe119	新宿区	3.75	2020to2022	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe117	新宿区	3.67	2020to2022	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe110	新宿区	1.59	2023to2024	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe106	千代田区	1.25	2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe105	豊島区	1.17	2023to2024	Toyoshima Ward	Food and Service	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0130000	Food and Service	CC01f0000	CCafe131	千代田区	2.17	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe193	新宿区	5.51	2015to2019	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe187	豊島区	4.67	2020to2022	Toyoshima Ward	Food and Service	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0130000	Food and Service	CC01f0000	CCafe200	千代田区	15.9	Before 2010	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe275	千代田区	10.6	2010to2014	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe272	千代田区	2.92	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe271	千代田区	6.17	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe270	千代田区	6.01	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe267	千代田区	1.67	2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe263	新宿区	5.68	2015to2019	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe197	中野区	13.3	2010to2014	Nakano Ward	Food and Service	CC013XXXX	diamond	Food and Service	Nakano Ward
+CC0130000	Food and Service	CC01f0000	CCafe255	新宿区	2.59	2020to2022	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe248	新宿区	3.34	2020to2022	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe548	千代田区	4.34	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe246	千代田区	5.51	2015to2019	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe242	港区	3.25	2020to2022	Minato Ward	Food and Service	CC013XXXX	diamond	Food and Service	Minato Ward
+CC0130000	Food and Service	CC01f0000	CCafe240	台東区	2.25	2020to2022	Taito Ward	Food and Service	CC013XXXX	diamond	Food and Service	Taito Ward
+CC0130000	Food and Service	CC01f0000	CCafe237	千代田区	2.17	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe235	文京区	1.84	2023to2024	Bunkyo Ward	Food and Service	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0130000	Food and Service	CC01f0000	CCafe225	千代田区	1.75	2023to2024	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe212	台東区	1.34	2023to2024	Taito Ward	Food and Service	CC013XXXX	diamond	Food and Service	Taito Ward
+CC0130000	Food and Service	CC01f0000	CCafe206	新宿区	1.17	2023to2024	Shinjyuku Ward	Food and Service	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0130000	Food and Service	CC01f0000	CCafe247	千代田区	3.17	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0130000	Food and Service	CC01f0000	CCafe260	千代田区	3.75	2020to2022	Chiyoda Ward	Food and Service	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0131000	Waitress	CC0150000	CCafe668	新宿区	16.5	Before 2010	Shinjyuku Ward	Waitress	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0131000	Waitress	CC0150000	CCafe667	千代田区	22.4	Before 2010	Chiyoda Ward	Waitress	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0131000	Waitress	CC0150000	CCafe318	新宿区	3.59	2020to2022	Shinjyuku Ward	Waitress	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0131100	American-Style Waitress	CC0151000	CCafe318	新宿区	3.59	2020to2022	Shinjyuku Ward	American-Style Waitress	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe646	千代田区	12.8	2010to2014	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe348	新宿区	0.921	2023to2024	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe438	渋谷区	2.92	2020to2022	Shibuya Ward	Maid	CC013XXXX	diamond	Food and Service	Shibuya Ward
+CC0132000	Maid	CC01f0000	CCafe399	中野区	2.17	2020to2022	Nakano Ward	Maid	CC013XXXX	diamond	Food and Service	Nakano Ward
+CC0132000	Maid	CC01f0000	CCafe386	新宿区	1.75	2023to2024	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe382	新宿区	1.67	2023to2024	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe380	墨田区	2.92	2020to2022	Sumida Ward	Maid	CC013XXXX	diamond	Food and Service	Others
+CC0132000	Maid	CC01f0000	CCafe374	新宿区	2.0	2020to2022	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe361	豊島区	1.17	2023to2024	Toyoshima Ward	Maid	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0132000	Maid	CC01f0000	CCafe345	港区	0.921	2023to2024	Minato Ward	Maid	CC013XXXX	diamond	Food and Service	Minato Ward
+CC0132000	Maid	CC01f0000	CCafe338	渋谷区	0.419	2023to2024	Shibuya Ward	Maid	CC013XXXX	diamond	Food and Service	Shibuya Ward
+CC0132000	Maid	CC01f0000	CCafe322	千代田区	7.17	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe309	町田市	0.586	2023to2024	Machida City	Maid	CC013XXXX	diamond	Food and Service	Others
+CC0132000	Maid	CC01f0000	CCafe307	新宿区	0.586	2023to2024	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe295	千代田区	21.0	Before 2010	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe289	千代田区	9.59	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe288	千代田区	9.01	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe287	北区	5.75	2015to2019	Kita Ward	Maid	CC013XXXX	diamond	Food and Service	Others
+CC0132000	Maid	CC01f0000	CCafe286	千代田区	9.01	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe284	豊島区	10.4	2010to2014	Toyoshima Ward	Maid	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0132000	Maid	CC01f0000	CCafe282	千代田区	7.75	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe280	千代田区	7.42	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe278	千代田区	6.25	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe277	千代田区	5.84	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe275	千代田区	10.6	2010to2014	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe450	台東区	3.0	2020to2022	Taito Ward	Maid	CC013XXXX	diamond	Food and Service	Taito Ward
+CC0132000	Maid	CC01f0000	CCafe459	千代田区	3.17	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe471	文京区	3.25	2020to2022	Bunkyo Ward	Maid	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0132000	Maid	CC01f0000	CCafe473	千代田区	2.84	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe594	千代田区	6.09	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe586	文京区	5.59	2015to2019	Bunkyo Ward	Maid	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0132000	Maid	CC01f0000	CCafe582	千代田区	5.68	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe581	千代田区	4.92	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe570	千代田区	5.92	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe568	千代田区	5.68	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe562	千代田区	4.67	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe554	新宿区	4.42	2020to2022	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe550	千代田区	4.42	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe548	千代田区	4.34	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe546	千代田区	2.25	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe272	千代田区	2.92	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe544	千代田区	8.25	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe532	八王子市	4.75	2020to2022	Hachioji City	Maid	CC013XXXX	diamond	Food and Service	Others
+CC0132000	Maid	CC01f0000	CCafe526	中野区	4.42	2020to2022	Nakano Ward	Maid	CC013XXXX	diamond	Food and Service	Nakano Ward
+CC0132000	Maid	CC01f0000	CCafe522	中央区	6.09	2015to2019	Chyo Ward	Maid	CC013XXXX	diamond	Food and Service	Others
+CC0132000	Maid	CC01f0000	CCafe516	新宿区	3.42	2020to2022	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe514	豊島区	3.51	2020to2022	Toyoshima Ward	Maid	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0132000	Maid	CC01f0000	CCafe506	台東区	3.51	2020to2022	Taito Ward	Maid	CC013XXXX	diamond	Food and Service	Taito Ward
+CC0132000	Maid	CC01f0000	CCafe505	千代田区	3.34	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe496	文京区	3.17	2020to2022	Bunkyo Ward	Maid	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0132000	Maid	CC01f0000	CCafe493	八王子市	3.25	2020to2022	Hachioji City	Maid	CC013XXXX	diamond	Food and Service	Others
+CC0132000	Maid	CC01f0000	CCafe492	北区	3.25	2020to2022	Kita Ward	Maid	CC013XXXX	diamond	Food and Service	Others
+CC0132000	Maid	CC01f0000	CCafe488	台東区	2.25	2020to2022	Taito Ward	Maid	CC013XXXX	diamond	Food and Service	Taito Ward
+CC0132000	Maid	CC01f0000	CCafe540	豊島区	3.75	2020to2022	Toyoshima Ward	Maid	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0132000	Maid	CC01f0000	CCafe598	渋谷区	7.26	2015to2019	Shibuya Ward	Maid	CC013XXXX	diamond	Food and Service	Shibuya Ward
+CC0132000	Maid	CC01f0000	CCafe271	千代田区	6.17	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe267	千代田区	1.67	2023to2024	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe127	新宿区	1.92	2023to2024	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe120	千代田区	4.51	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe119	新宿区	3.75	2020to2022	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe117	新宿区	3.67	2020to2022	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe110	新宿区	1.59	2023to2024	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe106	千代田区	1.25	2023to2024	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe105	豊島区	1.17	2023to2024	Toyoshima Ward	Maid	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0132000	Maid	CC01f0000	CCafe099	千代田区	4.34	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe084	千代田区	1.75	2023to2024	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe080	世田谷区	1.34	2023to2024	Setagaya Ward	Maid	CC013XXXX	diamond	Food and Service	Others
+CC0132000	Maid	CC01f0000	CCafe079	千代田区	0.921	2023to2024	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe072	武蔵野市	3.0	2020to2022	Musashino City	Maid	CC013XXXX	diamond	Food and Service	Others
+CC0132000	Maid	CC01f0000	CCafe068	新宿区	2.51	2020to2022	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe063	千代田区	1.09	2023to2024	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe058	文京区	1.0	2023to2024	Bunkyo Ward	Maid	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0132000	Maid	CC01f0000	CCafe056	新宿区	0.921	2023to2024	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe050	中野区	1.17	2023to2024	Nakano Ward	Maid	CC013XXXX	diamond	Food and Service	Nakano Ward
+CC0132000	Maid	CC01f0000	CCafe044	新宿区	2.0	2020to2022	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe037	千代田区	0.671	2023to2024	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe034	新宿区	0.586	2023to2024	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe024	文京区	3.59	2020to2022	Bunkyo Ward	Maid	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0132000	Maid	CC01f0000	CCafe007	新宿区	0.586	2023to2024	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe004	新宿区	0.671	2023to2024	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe130	板橋区	2.92	2020to2022	Itabashi Ward	Maid	CC013XXXX	diamond	Food and Service	Others
+CC0132000	Maid	CC01f0000	CCafe131	千代田区	2.17	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe136	世田谷区	2.42	2020to2022	Setagaya Ward	Maid	CC013XXXX	diamond	Food and Service	Others
+CC0132000	Maid	CC01f0000	CCafe138	千代田区	4.09	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe263	新宿区	5.68	2015to2019	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe260	千代田区	3.75	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe255	新宿区	2.59	2020to2022	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe248	新宿区	3.34	2020to2022	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe247	千代田区	3.17	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe246	千代田区	5.51	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe242	港区	3.25	2020to2022	Minato Ward	Maid	CC013XXXX	diamond	Food and Service	Minato Ward
+CC0132000	Maid	CC01f0000	CCafe240	台東区	2.25	2020to2022	Taito Ward	Maid	CC013XXXX	diamond	Food and Service	Taito Ward
+CC0132000	Maid	CC01f0000	CCafe237	千代田区	2.17	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe235	文京区	1.84	2023to2024	Bunkyo Ward	Maid	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0132000	Maid	CC01f0000	CCafe225	千代田区	1.75	2023to2024	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe270	千代田区	6.01	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe212	台東区	1.34	2023to2024	Taito Ward	Maid	CC013XXXX	diamond	Food and Service	Taito Ward
+CC0132000	Maid	CC01f0000	CCafe200	千代田区	15.9	Before 2010	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe197	中野区	13.3	2010to2014	Nakano Ward	Maid	CC013XXXX	diamond	Food and Service	Nakano Ward
+CC0132000	Maid	CC01f0000	CCafe193	新宿区	5.51	2015to2019	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe189	新宿区	5.26	2015to2019	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe187	豊島区	4.67	2020to2022	Toyoshima Ward	Maid	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0132000	Maid	CC01f0000	CCafe176	千代田区	1.09	2023to2024	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe175	千代田区	4.75	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe174	千代田区	11.5	2010to2014	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe168	中央区	4.09	2020to2022	Chyo Ward	Maid	CC013XXXX	diamond	Food and Service	Others
+CC0132000	Maid	CC01f0000	CCafe165	千代田区	3.92	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe156	千代田区	2.58	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe206	新宿区	1.17	2023to2024	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe601	千代田区	8.76	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe445	新宿区	2.25	2020to2022	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe607	新宿区	20.3	Before 2010	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe667	千代田区	22.4	Before 2010	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe666	新宿区	13.1	2010to2014	Shinjyuku Ward	Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132000	Maid	CC01f0000	CCafe665	千代田区	17.1	Before 2010	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe663	千代田区	19.0	Before 2010	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe661	千代田区	14.3	2010to2014	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe659	豊島区	19.4	Before 2010	Toyoshima Ward	Maid	CC013XXXX	diamond	Food and Service	Toyoshima Ward
+CC0132000	Maid	CC01f0000	CCafe658	千代田区	16.6	Before 2010	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe657	千代田区	16.0	Before 2010	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe656	千代田区	15.3	Before 2010	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe655	千代田区	14.8	2010to2014	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe654	千代田区	13.9	2010to2014	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe653	千代田区	18.9	Before 2010	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe652	千代田区	20.3	Before 2010	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe604	千代田区	8.34	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe649	中央区	13.7	2010to2014	Chyo Ward	Maid	CC013XXXX	diamond	Food and Service	Others
+CC0132000	Maid	CC01f0000	CCafe611	千代田区	2.25	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe613	千代田区	9.84	2015to2019	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe615	港区	9.09	2015to2019	Minato Ward	Maid	CC013XXXX	diamond	Food and Service	Minato Ward
+CC0132000	Maid	CC01f0000	CCafe618	千代田区	2.67	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe622	千代田区	10.3	2010to2014	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe610	千代田区	2.0	2020to2022	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe631	千代田区	11.7	2010to2014	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe632	千代田区	12.0	2010to2014	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132000	Maid	CC01f0000	CCafe650	港区	1.17	2023to2024	Minato Ward	Maid	CC013XXXX	diamond	Food and Service	Minato Ward
+CC0132000	Maid	CC01f0000	CCafe648	中野区	12.9	2010to2014	Nakano Ward	Maid	CC013XXXX	diamond	Food and Service	Nakano Ward
+CC0132000	Maid	CC01f0000	CCafe625	千代田区	11.0	2010to2014	Chiyoda Ward	Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132200	Animal-Eared Maid	CC01f2000	CCafe050	中野区	1.17	2023to2024	Nakano Ward	Animal-Eared Maid	CC013XXXX	diamond	Food and Service	Nakano Ward
+CC0132300	Hikikomori Tracksuit Maid	CC01f3000	CCafe024	文京区	3.59	2020to2022	Bunkyo Ward	Hikikomori Tracksuit Maid	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0132400	Animal Maid	CC01f4000	CCafe289	千代田区	9.59	2015to2019	Chiyoda Ward	Animal Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132500	Gothic Maid	CC01f5000	CCafe246	千代田区	5.51	2015to2019	Chiyoda Ward	Gothic Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132600	Chinese-Style Maid	CC01f6000	CCafe004	新宿区	0.671	2023to2024	Shinjyuku Ward	Chinese-Style Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132700	Bunny Maid	CC01f7000	CCafe345	港区	0.921	2023to2024	Minato Ward	Bunny Maid	CC013XXXX	diamond	Food and Service	Minato Ward
+CC0132800	Maid Outfit	CC01f8000	CCafe492	北区	3.25	2020to2022	Kita Ward	Maid Outfit	CC013XXXX	diamond	Food and Service	Others
+CC0132900	Bloodsucker Maid	CC01f9000	CCafe206	新宿区	1.17	2023to2024	Shinjyuku Ward	Bloodsucker Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132a00	Japanese-Style Maid	CC01fa000	CCafe240	台東区	2.25	2020to2022	Taito Ward	Japanese-Style Maid	CC013XXXX	diamond	Food and Service	Taito Ward
+CC0132b00	Assassin Maid (Maid)	CC01fb000	CCafe248	新宿区	3.34	2020to2022	Shinjyuku Ward	Assassin Maid (Maid)	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132c00	Cat-Type Robot Maid	CC01fc000	CCafe445	新宿区	2.25	2020to2022	Shinjyuku Ward	Cat-Type Robot Maid	CC013XXXX	diamond	Food and Service	Shinjyuku Ward
+CC0132d00	Cat-Eared Maid	CC01fd000	CCafe072	武蔵野市	3.0	2020to2022	Musashino City	Cat-Eared Maid	CC013XXXX	diamond	Food and Service	Others
+CC0132d00	Cat-Eared Maid	CC01fd000	CCafe079	千代田区	0.921	2023to2024	Chiyoda Ward	Cat-Eared Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132e00	Ryukyuan Maid	CC01fe000	CCafe242	港区	3.25	2020to2022	Minato Ward	Ryukyuan Maid	CC013XXXX	diamond	Food and Service	Minato Ward
+CC0132f00	Magical Maid	CC01ff000	CCafe581	千代田区	4.92	2020to2022	Chiyoda Ward	Magical Maid	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0132g00	Magical Maid Institute	CC01fg000	CCafe622	千代田区	10.3	2010to2014	Chiyoda Ward	Magical Maid Institute	CC013XXXX	diamond	Food and Service	Chiyoda Ward
+CC0134000	Other Service	CC01n1000	CCafe238	文京区	3.0	2020to2022	Bunkyo Ward	Other Service	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0134000	Other Service	CC01n0000	CCafe238	文京区	3.0	2020to2022	Bunkyo Ward	Other Service	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0134100	Store Manager	CC01n0000	CCafe238	文京区	3.0	2020to2022	Bunkyo Ward	Store Manager	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0134110	One-Day Store Manager	CC01n1000	CCafe238	文京区	3.0	2020to2022	Bunkyo Ward	One-Day Store Manager	CC013XXXX	diamond	Food and Service	Bunkyo Ward
+CC0140000	Education and Student	CC01l0000	CCafe352	豊島区	0.921	2023to2024	Toyoshima Ward	Others	CC014XXXX	rectangle	Others	Toyoshima Ward
+CC0140000	Education and Student	CC01l1000	CCafe178	千代田区	6.42	2015to2019	Chiyoda Ward	Others	CC014XXXX	rectangle	Others	Chiyoda Ward
+CC0140000	Education and Student	CC01l1000	CCafe648	中野区	12.9	2010to2014	Nakano Ward	Others	CC014XXXX	rectangle	Others	Nakano Ward
+CC0140000	Education and Student	CC01l1100	CCafe178	千代田区	6.42	2015to2019	Chiyoda Ward	Others	CC014XXXX	rectangle	Others	Chiyoda Ward
+CC0140000	Education and Student	CC01b0000	CCafe232	渋谷区	10.0	2010to2014	Shibuya Ward	Others	CC014XXXX	rectangle	Others	Shibuya Ward
+CC0140000	Education and Student	CC01b0000	CCafe502	港区	3.42	2020to2022	Minato Ward	Others	CC014XXXX	rectangle	Others	Minato Ward
+CC0140000	Education and Student	CC01b0000	CCafe556	千代田区	4.42	2020to2022	Chiyoda Ward	Others	CC014XXXX	rectangle	Others	Chiyoda Ward
+CC0140000	Education and Student	CC01l0000	CCafe178	千代田区	6.42	2015to2019	Chiyoda Ward	Others	CC014XXXX	rectangle	Others	Chiyoda Ward
+CC0140000	Education and Student	CC01l0000	CCafe648	中野区	12.9	2010to2014	Nakano Ward	Others	CC014XXXX	rectangle	Others	Nakano Ward
+CC0141000	Student	CC01l0000	CCafe352	豊島区	0.921	2023to2024	Toyoshima Ward	Student	CC014XXXX	rectangle	Others	Toyoshima Ward
+CC0141000	Student	CC01l0000	CCafe178	千代田区	6.42	2015to2019	Chiyoda Ward	Student	CC014XXXX	rectangle	Others	Chiyoda Ward
+CC0141000	Student	CC01l0000	CCafe648	中野区	12.9	2010to2014	Nakano Ward	Student	CC014XXXX	rectangle	Others	Nakano Ward
+CC0141100	Schoolgirl	CC01l1000	CCafe648	中野区	12.9	2010to2014	Nakano Ward	Schoolgirl	CC014XXXX	rectangle	Others	Nakano Ward
+CC0141100	Schoolgirl	CC01l1000	CCafe178	千代田区	6.42	2015to2019	Chiyoda Ward	Schoolgirl	CC014XXXX	rectangle	Others	Chiyoda Ward
+CC0141110	Female College Student	CC01l1100	CCafe178	千代田区	6.42	2015to2019	Chiyoda Ward	Female College Student	CC014XXXX	rectangle	Others	Chiyoda Ward
+CC0141200	Cheerleader	CC01b0000	CCafe502	港区	3.42	2020to2022	Minato Ward	Cheerleader	CC014XXXX	rectangle	Others	Minato Ward
+CC0141200	Cheerleader	CC01b0000	CCafe232	渋谷区	10.0	2010to2014	Shibuya Ward	Cheerleader	CC014XXXX	rectangle	Others	Shibuya Ward
+CC0141200	Cheerleader	CC01b0000	CCafe556	千代田区	4.42	2020to2022	Chiyoda Ward	Cheerleader	CC014XXXX	rectangle	Others	Chiyoda Ward
+CC0150000	Medical and Nursing	CC01c0000	CCafe209	豊島区	1.34	2023to2024	Toyoshima Ward	Others	CC015XXXX	rectangle	Others	Toyoshima Ward
+CC0150000	Medical and Nursing	CC01c1000	CCafe209	豊島区	1.34	2023to2024	Toyoshima Ward	Others	CC015XXXX	rectangle	Others	Toyoshima Ward
+CC0150000	Medical and Nursing	CC01c0000	CCafe512			2023to2024		Others	CC015XXXX	rectangle	Others	
+CC0151000	Nurse	CC01c0000	CCafe209	豊島区	1.34	2023to2024	Toyoshima Ward	Nurse	CC015XXXX	rectangle	Others	Toyoshima Ward
+CC0151100	Angel Nurse	CC01c1000	CCafe209	豊島区	1.34	2023to2024	Toyoshima Ward	Angel Nurse	CC015XXXX	rectangle	Others	Toyoshima Ward
+CC0160000	Military and Police and Combat	CC01r0000	CCafe248	新宿区	3.34	2020to2022	Shinjyuku Ward	Military and Police and Combat	CC016XXXX	parallelogram	Military and Police and Combat	Shinjyuku Ward
+CC0160000	Military and Police and Combat	CC01p2000	CCafe328	杉並区	0.504	2023to2024	Suginami Ward	Military and Police and Combat	CC016XXXX	parallelogram	Military and Police and Combat	Others
+CC0160000	Military and Police and Combat	CC01r1000	CCafe248	新宿区	3.34	2020to2022	Shinjyuku Ward	Military and Police and Combat	CC016XXXX	parallelogram	Military and Police and Combat	Shinjyuku Ward
+CC0160000	Military and Police and Combat	CC01p1000	CCafe368	新宿区	1.17	2023to2024	Shinjyuku Ward	Military and Police and Combat	CC016XXXX	parallelogram	Military and Police and Combat	Shinjyuku Ward
+CC0160000	Military and Police and Combat	CC01v1000	CCafe147	豊島区	2.59	2020to2022	Toyoshima Ward	Military and Police and Combat	CC016XXXX	parallelogram	Military and Police and Combat	Toyoshima Ward
+CC0160000	Military and Police and Combat	CC01v0000	CCafe428	台東区	2.0	2020to2022	Taito Ward	Military and Police and Combat	CC016XXXX	parallelogram	Military and Police and Combat	Taito Ward
+CC0160000	Military and Police and Combat	CC01v0000	CCafe147	豊島区	2.59	2020to2022	Toyoshima Ward	Military and Police and Combat	CC016XXXX	parallelogram	Military and Police and Combat	Toyoshima Ward
+CC0160000	Military and Police and Combat	CC01v0000	CCafe254	千代田区	2.17	2020to2022	Chiyoda Ward	Military and Police and Combat	CC016XXXX	parallelogram	Military and Police and Combat	Chiyoda Ward
+CC0160000	Military and Police and Combat	CC01v0000	CCafe257	千代田区	3.42	2020to2022	Chiyoda Ward	Military and Police and Combat	CC016XXXX	parallelogram	Military and Police and Combat	Chiyoda Ward
+CC0160000	Military and Police and Combat	CC01v1000	CCafe254	千代田区	2.17	2020to2022	Chiyoda Ward	Military and Police and Combat	CC016XXXX	parallelogram	Military and Police and Combat	Chiyoda Ward
+CC0160000	Military and Police and Combat	CC01t0000	CCafe007	新宿区	0.586	2023to2024	Shinjyuku Ward	Military and Police and Combat	CC016XXXX	parallelogram	Military and Police and Combat	Shinjyuku Ward
+CC0160000	Military and Police and Combat	CC01e0000	CCafe601	千代田区	8.76	2015to2019	Chiyoda Ward	Military and Police and Combat	CC016XXXX	parallelogram	Military and Police and Combat	Chiyoda Ward
+CC0160000	Military and Police and Combat	CC01w0000	CCafe226	新宿区	1.59	2023to2024	Shinjyuku Ward	Military and Police and Combat	CC016XXXX	parallelogram	Military and Police and Combat	Shinjyuku Ward
+CC0160000	Military and Police and Combat	CC01p0000	CCafe368	新宿区	1.17	2023to2024	Shinjyuku Ward	Military and Police and Combat	CC016XXXX	parallelogram	Military and Police and Combat	Shinjyuku Ward
+CC0160000	Military and Police and Combat	CC01p0000	CCafe328	杉並区	0.504	2023to2024	Suginami Ward	Military and Police and Combat	CC016XXXX	parallelogram	Military and Police and Combat	Others
+CC0161000	Military	CC01e0000	CCafe601	千代田区	8.76	2015to2019	Chiyoda Ward	Military	CC016XXXX	parallelogram	Military and Police and Combat	Chiyoda Ward
+CC0161100	Military Force	CC01w0000	CCafe226	新宿区	1.59	2023to2024	Shinjyuku Ward	Military Force	CC016XXXX	parallelogram	Military and Police and Combat	Shinjyuku Ward
+CC0162000	Police Officer	CC01v0000	CCafe428	台東区	2.0	2020to2022	Taito Ward	Police Officer	CC016XXXX	parallelogram	Military and Police and Combat	Taito Ward
+CC0162000	Police Officer	CC01v0000	CCafe257	千代田区	3.42	2020to2022	Chiyoda Ward	Police Officer	CC016XXXX	parallelogram	Military and Police and Combat	Chiyoda Ward
+CC0162000	Police Officer	CC01v0000	CCafe147	豊島区	2.59	2020to2022	Toyoshima Ward	Police Officer	CC016XXXX	parallelogram	Military and Police and Combat	Toyoshima Ward
+CC0162000	Police Officer	CC01v0000	CCafe254	千代田区	2.17	2020to2022	Chiyoda Ward	Police Officer	CC016XXXX	parallelogram	Military and Police and Combat	Chiyoda Ward
+CC0162100	Anipoli	CC01v1000	CCafe147	豊島区	2.59	2020to2022	Toyoshima Ward	Anipoli	CC016XXXX	parallelogram	Military and Police and Combat	Toyoshima Ward
+CC0162100	Anipoli	CC01v1000	CCafe254	千代田区	2.17	2020to2022	Chiyoda Ward	Anipoli	CC016XXXX	parallelogram	Military and Police and Combat	Chiyoda Ward
+CC0163000	Warrior	CC01p0000	CCafe328	杉並区	0.504	2023to2024	Suginami Ward	Warrior	CC016XXXX	parallelogram	Military and Police and Combat	Others
+CC0163000	Warrior	CC01p0000	CCafe368	新宿区	1.17	2023to2024	Shinjyuku Ward	Warrior	CC016XXXX	parallelogram	Military and Police and Combat	Shinjyuku Ward
+CC0163100	Legendary Warrior	CC01p1000	CCafe368	新宿区	1.17	2023to2024	Shinjyuku Ward	Legendary Warrior	CC016XXXX	parallelogram	Military and Police and Combat	Shinjyuku Ward
+CC0163200	Magical Warrior	CC01p2000	CCafe328	杉並区	0.504	2023to2024	Suginami Ward	Magical Warrior	CC016XXXX	parallelogram	Military and Police and Combat	Others
+CC0164000	Assassin	CC01r0000	CCafe248	新宿区	3.34	2020to2022	Shinjyuku Ward	Assassin	CC016XXXX	parallelogram	Military and Police and Combat	Shinjyuku Ward
+CC0164100	Assassin Maid (Assassin)	CC01r1000	CCafe248	新宿区	3.34	2020to2022	Shinjyuku Ward	Assassin Maid (Assassin)	CC016XXXX	parallelogram	Military and Police and Combat	Shinjyuku Ward
+CC0165000	Prison Guard	CC01t0000	CCafe007	新宿区	0.586	2023to2024	Shinjyuku Ward	Prison Guard	CC016XXXX	parallelogram	Military and Police and Combat	Shinjyuku Ward
+CC0170000	Special and Fictional	CC01k1000	CCafe394	新宿区	4.09	2020to2022	Shinjyuku Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0170000	Special and Fictional	CC01d0000	CCafe042	千代田区	0.751	2023to2024	Chiyoda Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0170000	Special and Fictional	CC01q0000	CCafe518	豊島区	11.3	2010to2014	Toyoshima Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Toyoshima Ward
+CC0170000	Special and Fictional	CC01s0000	CCafe631	千代田区	11.7	2010to2014	Chiyoda Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0170000	Special and Fictional	CC01s0000	CCafe250	豊島区	4.92	2020to2022	Toyoshima Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Toyoshima Ward
+CC0170000	Special and Fictional	CC01k0000	CCafe394	新宿区	4.09	2020to2022	Shinjyuku Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0170000	Special and Fictional	CC0170000	CCafe645	新宿区		2023to2024	Shinjyuku Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0170000	Special and Fictional	CC0170000	CCafe651	港区	14.8	2010to2014	Minato Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Minato Ward
+CC0170000	Special and Fictional	CC0191000	CCafe011	台東区	0.671	2023to2024	Taito Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Taito Ward
+CC0170000	Special and Fictional	CC0170000	CCafe644	武蔵野市		2023to2024	Musashino City	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Others
+CC0170000	Special and Fictional	CC0170000	CCafe643	武蔵野市	13.0	2010to2014	Musashino City	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Others
+CC0170000	Special and Fictional	CC0170000	CCafe639	港区		2023to2024	Minato Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Minato Ward
+CC0170000	Special and Fictional	CC0170000	CCafe628	立川市	11.5	2010to2014	Tachikawa City	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Others
+CC0170000	Special and Fictional	CC0170000	CCafe627	千代田区	5.42	2015to2019	Chiyoda Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0170000	Special and Fictional	CC0170000	CCafe626	町田市	14.3	2010to2014	Machida City	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Others
+CC0170000	Special and Fictional	CC0170000	CCafe617	新宿区		2023to2024	Shinjyuku Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0170000	Special and Fictional	CC0170000	CCafe591	墨田区		2023to2024	Sumida Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Others
+CC0170000	Special and Fictional	CC0170000	CCafe578	千代田区		2023to2024	Chiyoda Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0170000	Special and Fictional	CC01o0000	CCafe616	千代田区	6.59	2015to2019	Chiyoda Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0170000	Special and Fictional	CC0170000	CCafe465	新宿区	6.51	2015to2019	Shinjyuku Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0170000	Special and Fictional	CC0170000	CCafe292	千代田区	11.6	2010to2014	Chiyoda Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0170000	Special and Fictional	CC0170000	CCafe207	渋谷区	1.34	2023to2024	Shibuya Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Shibuya Ward
+CC0170000	Special and Fictional	CC0170000	CCafe191	千代田区	9.18	2015to2019	Chiyoda Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0170000	Special and Fictional	CC0170000	CCafe183	渋谷区	1.34	2023to2024	Shibuya Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Shibuya Ward
+CC0170000	Special and Fictional	CC0170000	CCafe177	港区	1.17	2023to2024	Minato Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Minato Ward
+CC0170000	Special and Fictional	CC0170000	CCafe055	新宿区	0.921	2023to2024	Shinjyuku Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0170000	Special and Fictional	CC0170000	CCafe667	千代田区	22.4	Before 2010	Chiyoda Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0170000	Special and Fictional	CC0170000	CCafe668	新宿区	16.5	Before 2010	Shinjyuku Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0170000	Special and Fictional	CC0190000	CCafe011	台東区	0.671	2023to2024	Taito Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Taito Ward
+CC0170000	Special and Fictional	CC0170000	CCafe371	台東区	0.586	2023to2024	Taito Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Taito Ward
+CC0170000	Special and Fictional	CC01i0000	CCafe066	新宿区	1.75	2023to2024	Shinjyuku Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0170000	Special and Fictional	CC01d0000	CCafe273	千代田区	7.26	2015to2019	Chiyoda Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0170000	Special and Fictional	CC0160000	CCafe243	新宿区	3.17	2020to2022	Shinjyuku Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0170000	Special and Fictional	CC01m0000	CCafe283	中野区	9.68	2015to2019	Nakano Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Nakano Ward
+CC0170000	Special and Fictional	CC01m0000	CCafe217	新宿区	1.09	2023to2024	Shinjyuku Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0170000	Special and Fictional	CC0180000	CCafe559	千代田区	4.75	2020to2022	Chiyoda Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0170000	Special and Fictional	CC0180000	CCafe499	杉並区	2.25	2020to2022	Suginami Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Others
+CC0170000	Special and Fictional	CC01d0000	CCafe107	新宿区	5.26	2015to2019	Shinjyuku Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0170000	Special and Fictional	CC01d0000	CCafe392	港区	0.334	2023to2024	Minato Ward	Special and Fictional	CC017XXXX	octagon	Special and Fictional	Minato Ward
+CC0171000	Cosplayer	CC0170000	CCafe668	新宿区	16.5	Before 2010	Shinjyuku Ward	Cosplayer	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0171000	Cosplayer	CC0170000	CCafe627	千代田区	5.42	2015to2019	Chiyoda Ward	Cosplayer	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0171000	Cosplayer	CC0170000	CCafe626	町田市	14.3	2010to2014	Machida City	Cosplayer	CC017XXXX	octagon	Special and Fictional	Others
+CC0171000	Cosplayer	CC0170000	CCafe465	新宿区	6.51	2015to2019	Shinjyuku Ward	Cosplayer	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0171000	Cosplayer	CC0170000	CCafe371	台東区	0.586	2023to2024	Taito Ward	Cosplayer	CC017XXXX	octagon	Special and Fictional	Taito Ward
+CC0171000	Cosplayer	CC0170000	CCafe292	千代田区	11.6	2010to2014	Chiyoda Ward	Cosplayer	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0171000	Cosplayer	CC0170000	CCafe177	港区	1.17	2023to2024	Minato Ward	Cosplayer	CC017XXXX	octagon	Special and Fictional	Minato Ward
+CC0171000	Cosplayer	CC0170000	CCafe191	千代田区	9.18	2015to2019	Chiyoda Ward	Cosplayer	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0171000	Cosplayer	CC0170000	CCafe183	渋谷区	1.34	2023to2024	Shibuya Ward	Cosplayer	CC017XXXX	octagon	Special and Fictional	Shibuya Ward
+CC0171000	Cosplayer	CC0170000	CCafe628	立川市	11.5	2010to2014	Tachikawa City	Cosplayer	CC017XXXX	octagon	Special and Fictional	Others
+CC0171000	Cosplayer	CC0170000	CCafe055	新宿区	0.921	2023to2024	Shinjyuku Ward	Cosplayer	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0171000	Cosplayer	CC0170000	CCafe207	渋谷区	1.34	2023to2024	Shibuya Ward	Cosplayer	CC017XXXX	octagon	Special and Fictional	Shibuya Ward
+CC0171000	Cosplayer	CC0170000	CCafe651	港区	14.8	2010to2014	Minato Ward	Cosplayer	CC017XXXX	octagon	Special and Fictional	Minato Ward
+CC0171000	Cosplayer	CC0170000	CCafe643	武蔵野市	13.0	2010to2014	Musashino City	Cosplayer	CC017XXXX	octagon	Special and Fictional	Others
+CC0171000	Cosplayer	CC0170000	CCafe667	千代田区	22.4	Before 2010	Chiyoda Ward	Cosplayer	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0172000	Spy	CC0190000	CCafe011	台東区	0.671	2023to2024	Taito Ward	Spy	CC017XXXX	octagon	Special and Fictional	Taito Ward
+CC0172100	Underworld Informant	CC0191000	CCafe011	台東区	0.671	2023to2024	Taito Ward	Underworld Informant	CC017XXXX	octagon	Special and Fictional	Taito Ward
+CC0173000	Ninja	CC01o0000	CCafe616	千代田区	6.59	2015to2019	Chiyoda Ward	Ninja	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0174000	Adventurer	CC01i0000	CCafe066	新宿区	1.75	2023to2024	Shinjyuku Ward	Adventurer	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0175000	Detective	CC01q0000	CCafe518	豊島区	11.3	2010to2014	Toyoshima Ward	Detective	CC017XXXX	octagon	Special and Fictional	Toyoshima Ward
+CC0176000	Pirate	CC01s0000	CCafe250	豊島区	4.92	2020to2022	Toyoshima Ward	Pirate	CC017XXXX	octagon	Special and Fictional	Toyoshima Ward
+CC0176000	Pirate	CC01s0000	CCafe631	千代田区	11.7	2010to2014	Chiyoda Ward	Pirate	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0177000	Actress	CC01k0000	CCafe394	新宿区	4.09	2020to2022	Shinjyuku Ward	Actress	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0177100	Adult Video Actress	CC01k1000	CCafe394	新宿区	4.09	2020to2022	Shinjyuku Ward	Adult Video Actress	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0178000	Bunny Girl	CC01d0000	CCafe042	千代田区	0.751	2023to2024	Chiyoda Ward	Bunny Girl	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0178000	Bunny Girl	CC01d0000	CCafe107	新宿区	5.26	2015to2019	Shinjyuku Ward	Bunny Girl	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0178000	Bunny Girl	CC01d0000	CCafe273	千代田区	7.26	2015to2019	Chiyoda Ward	Bunny Girl	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0178000	Bunny Girl	CC01d0000	CCafe392	港区	0.334	2023to2024	Minato Ward	Bunny Girl	CC017XXXX	octagon	Special and Fictional	Minato Ward
+CC0179000	Religious Roles	CC0180000	CCafe559	千代田区	4.75	2020to2022	Chiyoda Ward	Religious Roles	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0179000	Religious Roles	CC0180000	CCafe499	杉並区	2.25	2020to2022	Suginami Ward	Religious Roles	CC017XXXX	octagon	Special and Fictional	Others
+CC0179000	Religious Roles	CC01m0000	CCafe283	中野区	9.68	2015to2019	Nakano Ward	Religious Roles	CC017XXXX	octagon	Special and Fictional	Nakano Ward
+CC0179000	Religious Roles	CC01m0000	CCafe217	新宿区	1.09	2023to2024	Shinjyuku Ward	Religious Roles	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0179100	Sister	CC0180000	CCafe499	杉並区	2.25	2020to2022	Suginami Ward	Sister	CC017XXXX	octagon	Special and Fictional	Others
+CC0179100	Sister	CC0180000	CCafe559	千代田区	4.75	2020to2022	Chiyoda Ward	Sister	CC017XXXX	octagon	Special and Fictional	Chiyoda Ward
+CC0179200	Shrine Maiden	CC01m0000	CCafe217	新宿区	1.09	2023to2024	Shinjyuku Ward	Shrine Maiden	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0179200	Shrine Maiden	CC01m0000	CCafe283	中野区	9.68	2015to2019	Nakano Ward	Shrine Maiden	CC017XXXX	octagon	Special and Fictional	Nakano Ward
+CC017a000	Creater	CC0160000	CCafe243	新宿区	3.17	2020to2022	Shinjyuku Ward	Creater	CC017XXXX	octagon	Special and Fictional	Shinjyuku Ward
+CC0180000	Secretary and Administration	CC01u0000	CCafe184	渋谷区	1.34	2023to2024	Shibuya Ward	Others	CC018XXXX	rectangle	Others	Shibuya Ward
+CC0180000	Secretary and Administration	CC01u0000	CCafe207	渋谷区	1.34	2023to2024	Shibuya Ward	Others	CC018XXXX	rectangle	Others	Shibuya Ward
+CC0180000	Secretary and Administration	CC01u0000	CCafe517	大田区	2.5	2020to2022	Ota Ward	Others	CC018XXXX	rectangle	Others	Others
+CC0180000	Secretary and Administration	CC01u1000	CCafe207	渋谷区	1.34	2023to2024	Shibuya Ward	Others	CC018XXXX	rectangle	Others	Shibuya Ward
+CC0180000	Secretary and Administration	CC0120000	CCafe125	千代田区	11.3	2010to2014	Chiyoda Ward	Others	CC018XXXX	rectangle	Others	Chiyoda Ward
+CC0181000	Secretary	CC01u0000	CCafe184	渋谷区	1.34	2023to2024	Shibuya Ward	Secretary	CC018XXXX	rectangle	Others	Shibuya Ward
+CC0181000	Secretary	CC01u0000	CCafe207	渋谷区	1.34	2023to2024	Shibuya Ward	Secretary	CC018XXXX	rectangle	Others	Shibuya Ward
+CC0181000	Secretary	CC01u0000	CCafe517	大田区	2.5	2020to2022	Ota Ward	Secretary	CC018XXXX	rectangle	Others	Others
+CC0181100	CEO’s Secretary	CC01u1000	CCafe207	渋谷区	1.34	2023to2024	Shibuya Ward	CEO’s Secretary	CC018XXXX	rectangle	Others	Shibuya Ward
+CC0182000	OL	CC0120000	CCafe125	千代田区	11.3	2010to2014	Chiyoda Ward	OL	CC018XXXX	rectangle	Others	Chiyoda Ward
