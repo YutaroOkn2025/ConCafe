@@ -41,3 +41,6 @@ Below is an explanation of the files uploaded here.<p>
 ・heatDgrp.txt<p>
 &nbsp;&nbsp;&nbsp;This is a heatmap of ConCafes based on the adoption or non-adoption of a concept (1 or 0). In the last column, the number corresponding to the general concept group to which each concept cafe belongs is assigned.
 <br>
+・popularAnimes.txt<p>
+&nbsp;&nbsp;&nbsp; Anime series that aired between 2001 and 2025 and consisted of 24 or more episodes were included in the analysis. Google hit counts were collected in December 2025 using the search query “anime title + anime.” The dataset was constructed based on information obtained from the Wikipedia sources listed on the follwing: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1%E4%BD%9C%E5%93%81%E4%B8%80%E8%A6%A7
+<br>
