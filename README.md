@@ -45,6 +45,7 @@ Below is an explanation of the files uploaded here.<p>
 ・popularAnimes.txt<p>
 &nbsp;&nbsp;&nbsp; Anime series that aired between 2001 and 2025 and consisted of 24 or more episodes were included in the analysis. Google hit counts were collected in December 2025 using the search query “anime title + anime.” The dataset was constructed based on information obtained from the Wikipedia sources listed on the follwing: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1%E4%BD%9C%E5%93%81%E4%B8%80%E8%A6%A7
 <br>
+<br>
 ・concafeAnimeTimeLink.txt<p>
 &nbsp;&nbsp;&nbsp; This file presents the results of an attempt to link concepts with anime works. The linkage was assessed using ChatGPT. Specifically, a concept was defined as “connected” to an anime (1) if it could be related to the anime’s world or characters through occupational roles, visual imagery, or narrative roles; otherwise, it was defined as not connected (0). The anime works considered in this analysis were those broadcast within ±1 year of the concept’s emergence date.
 <br>
