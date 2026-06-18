@@ -1,3 +1,4 @@
+```mermaid
 graph TD
 
   A[CC0100000 仕事（Occupation）]
