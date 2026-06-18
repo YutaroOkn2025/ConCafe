@@ -97,3 +97,30 @@ G --> G6[Legendary Warrior]
 G --> G7[Magical Warrior]
 G --> G8[Assassin]
 G --> G9[Assassin Maid-Assassin-]
+G --> G10[Prison Guard]
+
+%% =====================
+%% Fictional / Special
+%% =====================
+H --> H1[Cosplayer]
+H --> H2[Spy]
+H --> H3[Underworld Informant]
+H --> H4[Ninja]
+H --> H5[Adventurer]
+H --> H6[Detective]
+H --> H7[Pirate]
+H --> H8[Actress]
+H --> H9[Adult Video Actress]
+H --> H10[Bunny Girl]
+H --> H11[Religious Roles]
+H11 --> H12[Sister]
+H11 --> H13[Shrine Maiden]
+H --> H14[Creator]
+
+%% =====================
+%% Secretary
+%% =====================
+I --> I1[Secretary]
+I --> I2[CEO’s Secretary]
+I --> I3[OL]
+
