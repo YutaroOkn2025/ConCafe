@@ -52,6 +52,8 @@ Below is an explanation of the files uploaded here.<p>
 
 ・Developed Concept Cafe Oncoloty<p>
 &nbsp;&nbsp;&nbsp; Occupation in the English version: https://yutarookn2025.github.io/ConCafe/CCO_Occupation_Eng.html<p>
+&nbsp;&nbsp;&nbsp; Occupation in the Japanese version: https://yutarookn2025.github.io/ConCafe/CCO_Occupation_Jpn.html<p>
+
 
 ・Publications<p>
 &nbsp;&nbsp;&nbsp; Analyses based on this dataset have been published in a peer-reviewed article titled “The Emergence of Concept Cafe Culture in Japan: An Ontology-inspired Analysis based on Original Concept Cafe Data and Anime Role Images” (East Asian Journal of Popular Culture, 2026).
