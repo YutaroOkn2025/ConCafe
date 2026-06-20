@@ -50,6 +50,9 @@ Below is an explanation of the files uploaded here.<p>
 &nbsp;&nbsp;&nbsp; This file presents the results of an attempt to link concepts with anime works. The linkage was assessed using ChatGPT. Specifically, a concept was defined as “connected” to an anime (1) if it could be related to the anime’s world or characters through occupational roles, visual imagery, or narrative roles; otherwise, it was defined as not connected (0). The anime works considered in this analysis were those broadcast within ±1 year of the concept’s emergence date.
 <br>
 
+・Developed Concept Cafe Oncoloty<p>
+&nbsp;&nbsp;&nbsp; Occupation in the English version: https://yutarookn2025.github.io/ConCafe/CCO_Occupation_Eng.html<p>
+
 ・Publications<p>
 &nbsp;&nbsp;&nbsp; Analyses based on this dataset have been published in a peer-reviewed article titled “The Emergence of Concept Cafe Culture in Japan: An Ontology-inspired Analysis based on Original Concept Cafe Data and Anime Role Images” (East Asian Journal of Popular Culture, 2026).
 <br>
