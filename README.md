@@ -51,6 +51,7 @@ Below is an explanation of the files uploaded here.<p>
 <br>
 
 ・Developed Concept Cafe Oncoloty<p>
+&nbsp;&nbsp;&nbsp; The color intensity of the nodes represents the chronological order of concept emergence, with darker shades indicating more recent periods: Before 2010, 2010–2014, 2015–2019, 2020–2022, and 2023–2024.
 &nbsp;&nbsp;&nbsp; Occupation in the English version: https://yutarookn2025.github.io/ConCafe/CCO_Occupation_Eng.html<p>
 &nbsp;&nbsp;&nbsp; Occupation in the Japanese version: https://yutarookn2025.github.io/ConCafe/CCO_Occupation_Jpn.html<p>
 
