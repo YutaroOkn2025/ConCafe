@@ -1,5 +1,5 @@
 # ConCafe
-&nbsp;&nbsp;&nbsp;This project provides a system for reconstructing cultural concept formation in concept cafes (ConCafes) from ontology and temporal anime references.<p>
+This project provides a system for reconstructing cultural concept formation in concept cafes (ConCafes) from ontology and temporal anime references.<p>
 
 <br>
 Below is an explanation of the files uploaded here.<p>
